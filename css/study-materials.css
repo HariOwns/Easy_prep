@@ -1,0 +1,240 @@
+* {
+  box-sizing: border-box;
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+/* ================= HEADER ================= */
+
+.header {
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 18px 32px;
+}
+
+.header-left {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.header-left i {
+  font-size: 20px;
+}
+
+.header-left h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.header-left p {
+  margin: 2px 0 0;
+  font-size: 14px;
+  color: #64748b;
+}
+
+/* ================= CONTAINER ================= */
+
+.container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* ================= INFO CARD ================= */
+
+.info-card {
+  background: #eef4ff;
+  border: 1px solid #dbeafe;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 32px;
+}
+
+.info-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.info-head i {
+  font-size: 20px;
+  color: #2563eb;
+}
+
+.info-card h2 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.info-card p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #475569;
+}
+
+/* ================= GRID ================= */
+
+.materials-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px;
+}
+
+/* ================= MATERIAL CARD ================= */
+
+.material-card {
+  background: #ffffff;
+  border-radius: 22px;
+  padding: 28px;
+  box-shadow: 0 10px 28px rgba(0,0,0,0.05);
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  position: relative;
+  transition: 0.25s ease;
+  cursor: pointer;
+  min-height: 160px;
+}
+
+.material-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 36px rgba(0,0,0,0.08);
+}
+
+.material-left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex: 1;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+}
+
+.content h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.content p {
+  margin: 8px 0 12px;
+  font-size: 14.5px;
+  color: #475569;
+  line-height: 1.5;
+}
+
+
+/* ICON BOX */
+.icon-box {
+  width: 60px;
+  height: 60px;
+  border-radius: 18px;
+  background: #dbeafe;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #2563eb;
+  font-size: 22px;
+  flex-shrink: 0;
+}
+
+/* TEXT CONTENT */
+
+.material-left h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.material-left p {
+  margin: 8px 0 12px;
+  font-size: 14.5px;
+  color: #475569;
+  line-height: 1.5;
+}
+
+.material-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.material-content h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.material-content p {
+  margin: 8px 0 12px;
+  font-size: 14.5px;
+  color: #475569;
+  line-height: 1.5;
+}
+
+/* TAG */
+.tag {
+  display: inline-block;
+  background: #f1f5f9;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  color: #334155;
+  font-weight: 500;
+}
+
+/* EXTERNAL ICON */
+.material-card .external {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+  font-size: 18px;
+  color: #94a3b8;
+  transition: 0.2s;
+}
+
+.material-card:hover .external {
+  color: #2563eb;
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media (max-width: 900px) {
+  .materials-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .container {
+    padding: 0 16px;
+  }
+
+  .material-card {
+    padding: 22px;
+  }
+
+  .icon-box {
+    width: 50px;
+    height: 50px;
+  }
+
+  .material-left h3 {
+    font-size: 16px;
+  }
+}

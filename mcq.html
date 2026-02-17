@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mock Test</title>
+  <link rel="stylesheet" href="css/mcq.css" />
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="mcq-top">
+  <div>
+    <h2>Mock Test</h2>
+    <p id="qCounter">Question 1 of 15</p>
+    <div class="progress-bar">
+      <div id="progressFill"></div>
+    </div>
+  </div>
+
+  <div class="timer-box">
+    ⏱ <span id="timer">15:00</span><br>
+    <small><span id="answeredCount">0</span> / 
+           <span id="totalCount">0</span> answered
+    </small>
+  </div>
+</header>
+
+<!-- QUESTION CARD -->
+<main class="mcq-wrapper">
+  <div class="question-card">
+    <div class="q-number" id="qNo">1</div>
+    <h3 id="questionText"></h3>
+
+    <div class="options" id="options"></div>
+  </div>
+
+  <div class="nav-buttons">
+    <button onclick="prevQuestion()">← Previous</button>
+    <button id="nextBtn" class="primary" onclick="nextQuestion()">Next →</button>
+    <button id="submitBtn" class="submit" onclick="submitTest()" style="display:none">Submit Test </button>
+  </div>
+
+  <!-- PALETTE -->
+  <div class="palette-card">
+    <h4>Question Palette</h4>
+    <div class="palette" id="palette"></div>
+
+    <div class="legend">
+      <span class="answered"></span> Answered
+      <span class="not-answered"></span> Not Answered
+      <span class="current"></span> Current
+    </div>
+  </div>
+</main>
+
+<!-- AUTO SUBMIT MODAL -->
+<div id="timeUpModal" class="timeup-modal">
+  <div class="timeup-box">
+    <h2>⏰ Time Up!</h2>
+    <p>Your test has ended.<br>Submitting automatically…</p>
+  </div>
+</div>
+<!-- TIME WARNING -->
+<div id="timeWarning" class="time-warning">
+  ⏳ Only 3 minutes left! Please hurry up.
+</div>
+
+<script src="js/mcq.js"></script>
+</body>
+</html>

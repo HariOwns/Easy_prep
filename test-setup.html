@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Test Setup – Easy Prep</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/test-setup.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="header-left" onclick="goBack()">
+    <i class="ri-arrow-left-line"></i>
+    <div>
+      <h1>Test Setup</h1>
+      <p>Choose your test duration</p>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- CONFIG CARD -->
+  <section class="config-card">
+    <div class="config-head">
+      <i class="ri-file-list-3-line"></i>
+      <h2>Test Configuration</h2>
+    </div>
+
+    <p class="config-line">
+      <strong>Exam Group:</strong>
+      <span id="examGroup">Group 2</span>
+    </p>
+
+    <p class="config-desc">
+      Questions will be randomly selected from your exam group question bank.
+    </p>
+  </section>
+
+  <!-- DURATION -->
+  <h3 class="section-title">Select Test Duration</h3>
+
+  <section class="duration-grid">
+
+    <!-- 15 -->
+    <div class="duration-card" onclick="selectDuration(this,4)">
+      <div class="card-top">
+        <div class="icon"><i class="ri-time-line"></i></div>
+        <div class="radio"></div>
+      </div>
+      <h4>15 Minutes</h4>
+      <p>Quick practice</p>
+      <hr>
+      <span><b>15</b> Questions &nbsp; • &nbsp; <b>15</b> Minutes</span>
+    </div>
+
+    <!-- 25 -->
+    <div class="duration-card" onclick="selectDuration(this,25)">
+      <div class="card-top">
+        <div class="icon"><i class="ri-time-line"></i></div>
+        <div class="radio"></div>
+      </div>
+      <h4>25 Minutes</h4>
+      <p>Short test</p>
+      <hr>
+      <span><b>25</b> Questions &nbsp; • &nbsp; <b>25</b> Minutes</span>
+    </div>
+
+    <!-- 45 -->
+    <div class="duration-card" onclick="selectDuration(this,45)">
+      <div class="card-top">
+        <div class="icon"><i class="ri-time-line"></i></div>
+        <div class="radio"></div>
+      </div>
+      <h4>45 Minutes</h4>
+      <p>Medium test</p>
+      <hr>
+      <span><b>50</b> Questions &nbsp; • &nbsp; <b>45</b> Minutes</span>
+    </div>
+
+    <!-- 60 -->
+    <div class="duration-card" onclick="selectDuration(this,60)">
+      <div class="card-top">
+        <div class="icon"><i class="ri-time-line"></i></div>
+        <div class="radio"></div>
+      </div>
+      <h4>60 Minutes</h4>
+      <p>Full length test</p>
+      <hr>
+      <span><b>100</b> Questions &nbsp; • &nbsp; <b>60</b> Minutes</span>
+    </div>
+
+  </section>
+
+  <!-- INSTRUCTIONS -->
+  <section class="instructions">
+    <h3>Test Instructions</h3>
+    <ul>
+      <li>The test will be auto-submitted when the timer ends</li>
+      <li>Each question has 4 options with only one correct answer</li>
+      <li>You can navigate using Next/Previous buttons</li>
+      <li>Your answers are automatically saved</li>
+      <li>Click "Submit Test" before time runs out</li>
+    </ul>
+  </section>
+
+  <!-- CTA -->
+<button id="startBtn" class="start-btn" onclick="startTest()" disabled>
+  Please Select Duration
+</button>
+
+
+</main>
+
+<script src="js/test-setup.js"></script>
+</body>
+</html>

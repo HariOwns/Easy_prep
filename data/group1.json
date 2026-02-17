@@ -1,0 +1,1540 @@
+{
+  "group": "Group 1",
+
+  "questions": [
+
+    {
+      "id": 1,
+      "question": "Who is the Governor of Tamil Nadu appointed by?",
+      "options": ["Chief Minister", "Prime Minister", "President", "Supreme Court"],
+      "correctIndex": 2,
+      "explanation": "The Governor is appointed by the President of India."
+    },
+    {
+      "id": 2,
+      "question": "Which Article deals with Fundamental Rights?",
+      "options": ["Article 12-35", "Article 36-51", "Article 368", "Article 110"],
+      "correctIndex": 0,
+      "explanation": "Fundamental Rights are covered under Article 12-35."
+    },
+    {
+      "id": 3,
+      "question": "The capital of Tamil Nadu is?",
+      "options": ["Madurai", "Chennai", "Coimbatore", "Salem"],
+      "correctIndex": 1,
+      "explanation": "Chennai is the capital city."
+    },
+    {
+      "id": 4,
+      "question": "Who wrote Arthashastra?",
+      "options": ["Kalidasa", "Chanakya", "Ashoka", "Harsha"],
+      "correctIndex": 1,
+      "explanation": "Arthashastra was written by Chanakya."
+    },
+    {
+      "id": 5,
+      "question": "Which river is called Dakshina Ganga?",
+      "options": ["Cauvery", "Vaigai", "Krishna", "Godavari"],
+      "correctIndex": 0,
+      "explanation": "Cauvery is called Dakshina Ganga."
+    },
+    {
+	"id": 6,
+	"question": "Which part of the Constitution deals with Directive Principles of State Policy?",
+	"options": ["Part III", "Part IV", "Part V", "Part VI"],
+	"correctIndex": 1,
+	"explanation": "Directive Principles are included in Part IV."
+	},
+	{
+	"id": 7,
+	"question": "The President of India is elected by?",
+	"options": ["Lok Sabha only", "Rajya Sabha only", "Electoral College", "Supreme Court"],
+	"correctIndex": 2,
+	"explanation": "President is elected by an Electoral College."
+	},
+	{
+	"id": 8,
+	"question": "Who is known as the Father of Indian Constitution?",
+	"options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Rajendra Prasad"],
+	"correctIndex": 2,
+	"explanation": "Dr. B.R. Ambedkar is called the Father of Indian Constitution."
+	},
+	{
+	"id": 9,
+	"question": "Article 370 was related to which state?",
+	"options": ["Assam", "Jammu & Kashmir", "Nagaland", "Sikkim"],
+	"correctIndex": 1,
+	"explanation": "Article 370 granted special status to Jammu & Kashmir."
+	},
+	{
+	"id": 10,
+	"question": "The Union Budget is presented in?",
+	"options": ["Rajya Sabha", "Lok Sabha", "President Office", "Supreme Court"],
+	"correctIndex": 1,
+	"explanation": "Union Budget is presented in Lok Sabha."
+	},
+
+	{
+	"id": 11,
+	"question": "GDP stands for?",
+	"options": ["Gross Domestic Product", "General Development Plan", "Gross Development Policy", "Global Domestic Product"],
+	"correctIndex": 0,
+	"explanation": "GDP means Gross Domestic Product."
+	},
+	{
+	"id": 12,
+	"question": "RBI was established in which year?",
+	"options": ["1935", "1947", "1950", "1921"],
+	"correctIndex": 0,
+	"explanation": "RBI was established in 1935."
+	},
+	{
+	"id": 13,
+	"question": "Inflation means?",
+	"options": ["Rise in prices", "Fall in prices", "Increase in GDP", "Decrease in money supply"],
+	"correctIndex": 0,
+	"explanation": "Inflation refers to sustained increase in prices."
+	},
+	{
+	"id": 14,
+	"question": "Repo rate is decided by?",
+	"options": ["Finance Ministry", "SEBI", "RBI", "NITI Aayog"],
+	"correctIndex": 2,
+	"explanation": "Repo rate is decided by RBI."
+	},
+	{
+	"id": 15,
+	"question": "Which tax replaced VAT in India?",
+	"options": ["Income Tax", "Service Tax", "GST", "Excise"],
+	"correctIndex": 2,
+	"explanation": "GST replaced VAT."
+	},
+
+	{
+	"id": 16,
+	"question": "Who was the founder of Mauryan Empire?",
+	"options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Harsha"],
+	"correctIndex": 1,
+	"explanation": "Chandragupta Maurya founded the Mauryan Empire."
+	},
+	{
+	"id": 17,
+	"question": "Battle of Plassey was fought in?",
+	"options": ["1757", "1764", "1857", "1947"],
+	"correctIndex": 0,
+	"explanation": "Battle of Plassey was fought in 1757."
+	},
+	{
+	"id": 18,
+	"question": "Quit India Movement started in?",
+	"options": ["1942", "1930", "1920", "1919"],
+	"correctIndex": 0,
+	"explanation": "Quit India Movement started in 1942."
+	},
+	{
+	"id": 19,
+	"question": "Who founded the Indian National Congress?",
+	"options": ["Mahatma Gandhi", "A.O. Hume", "Nehru", "Tilak"],
+	"correctIndex": 1,
+	"explanation": "A.O. Hume founded INC in 1885."
+	},
+	{
+	"id": 20,
+	"question": "The Revolt of 1857 is also called?",
+	"options": ["First War of Independence", "Civil War", "Sepoy Tax", "Freedom Act"],
+	"correctIndex": 0,
+	"explanation": "1857 revolt is called First War of Independence."
+	},
+
+	{
+	"id": 21,
+	"question": "Which is the longest river in India?",
+	"options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+	"correctIndex": 0,
+	"explanation": "Ganga is the longest river."
+	},
+	{
+	"id": 22,
+	"question": "Indian Parliament consists of?",
+	"options": ["President + Lok Sabha", "Lok Sabha + Rajya Sabha", "President + Two Houses", "Supreme Court + Lok Sabha"],
+	"correctIndex": 2,
+	"explanation": "Parliament consists of President + Lok Sabha + Rajya Sabha."
+	},
+	{
+	"id": 23,
+	"question": "Green Revolution is related to?",
+	"options": ["Industry", "Agriculture", "Transport", "Banking"],
+	"correctIndex": 1,
+	"explanation": "Green Revolution increased agricultural production."
+	},
+	{
+	"id": 24,
+	"question": "NITI Aayog replaced?",
+	"options": ["Planning Commission", "Finance Commission", "RBI", "SEBI"],
+	"correctIndex": 0,
+	"explanation": "NITI Aayog replaced Planning Commission."
+	},
+	{
+	"id": 25,
+	"question": "Which planet is called Red Planet?",
+	"options": ["Mars", "Jupiter", "Venus", "Saturn"],
+	"correctIndex": 0,
+	"explanation": "Mars is known as Red Planet."
+	}
+	{
+	"id": 26,
+	"question": "Who appoints the Chief Election Commissioner?",
+	"options": ["Prime Minister", "President", "Chief Justice", "Parliament"],
+	"correctIndex": 1,
+	"explanation": "The President appoints the Chief Election Commissioner."
+	},
+	{
+	"id": 27,
+	"question": "Which Schedule of the Constitution contains the Union List?",
+	"options": ["5th Schedule", "6th Schedule", "7th Schedule", "8th Schedule"],
+	"correctIndex": 2,
+	"explanation": "The 7th Schedule contains Union, State and Concurrent Lists."
+	},
+	{
+	"id": 28,
+	"question": "Money Bill can be introduced in?",
+	"options": ["Rajya Sabha", "Lok Sabha", "Both Houses", "Supreme Court"],
+	"correctIndex": 1,
+	"explanation": "Money Bill can be introduced only in Lok Sabha."
+	},
+	{
+	"id": 29,
+	"question": "Zero Hour is a feature of?",
+	"options": ["Judiciary", "Parliament", "Election Commission", "Finance Commission"],
+	"correctIndex": 1,
+	"explanation": "Zero Hour is an informal procedure in Parliament."
+	},
+	{
+	"id": 30,
+	"question": "Fundamental Duties were added by which Amendment?",
+	"options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "86th Amendment"],
+	"correctIndex": 0,
+	"explanation": "Fundamental Duties were added by the 42nd Amendment."
+	},
+
+	{
+	"id": 31,
+	"question": "Which institution regulates stock markets in India?",
+	"options": ["RBI", "SEBI", "Finance Ministry", "NITI Aayog"],
+	"correctIndex": 1,
+	"explanation": "SEBI regulates stock markets."
+	},
+	{
+	"id": 32,
+	"question": "Fiscal deficit refers to?",
+	"options": ["Excess of revenue over expenditure", "Excess of expenditure over revenue", "Tax revenue", "Foreign trade"],
+	"correctIndex": 1,
+	"explanation": "Fiscal deficit is excess of expenditure over revenue."
+	},
+	{
+	"id": 33,
+	"question": "MSP stands for?",
+	"options": ["Minimum Support Price", "Maximum Selling Price", "Market Sale Policy", "Minimum Sale Profit"],
+	"correctIndex": 0,
+	"explanation": "MSP means Minimum Support Price."
+	},
+	{
+	"id": 34,
+	"question": "Which sector contributes highest to India's GDP?",
+	"options": ["Agriculture", "Industry", "Services", "Mining"],
+	"correctIndex": 2,
+	"explanation": "Services sector contributes highest."
+	},
+	{
+	"id": 35,
+	"question": "IMF stands for?",
+	"options": ["International Monetary Fund", "Indian Monetary Fund", "Internal Market Fund", "International Market Federation"],
+	"correctIndex": 0,
+	"explanation": "IMF means International Monetary Fund."
+	},
+
+	{
+	"id": 36,
+	"question": "Who built the Brihadeeswarar Temple?",
+	"options": ["Rajaraja Chola I", "Ashoka", "Krishnadevaraya", "Akbar"],
+	"correctIndex": 0,
+	"explanation": "It was built by Rajaraja Chola I."
+	},
+	{
+	"id": 37,
+	"question": "The Dandi March was led by?",
+	"options": ["Subhash Chandra Bose", "Gandhi", "Nehru", "Patel"],
+	"correctIndex": 1,
+	"explanation": "Dandi March was led by Mahatma Gandhi."
+	},
+	{
+	"id": 38,
+	"question": "Battle of Buxar was fought in?",
+	"options": ["1764", "1757", "1857", "1748"],
+	"correctIndex": 0,
+	"explanation": "Battle of Buxar was fought in 1764."
+	},
+	{
+	"id": 39,
+	"question": "Who was the first Governor-General of India?",
+	"options": ["Warren Hastings", "Lord Cornwallis", "Dalhousie", "Mountbatten"],
+	"correctIndex": 0,
+	"explanation": "Warren Hastings was first Governor-General."
+	},
+	{
+	"id": 40,
+	"question": "Vijayanagara Empire was founded by?",
+	"options": ["Harihara and Bukka", "Shivaji", "Babur", "Akbar"],
+	"correctIndex": 0,
+	"explanation": "Founded by Harihara and Bukka."
+	},
+
+	{
+	"id": 41,
+	"question": "Tropic of Cancer passes through how many Indian states?",
+	"options": ["5", "6", "7", "8"],
+	"correctIndex": 3,
+	"explanation": "It passes through 8 Indian states."
+	},
+	{
+	"id": 42,
+	"question": "Largest desert in India is?",
+	"options": ["Thar Desert", "Sahara", "Kalahari", "Gobi"],
+	"correctIndex": 0,
+	"explanation": "Thar Desert is the largest in India."
+	},
+	{
+	"id": 43,
+	"question": "ISRO headquarters is located in?",
+	"options": ["Chennai", "Bangalore", "Delhi", "Mumbai"],
+	"correctIndex": 1,
+	"explanation": "ISRO headquarters is in Bangalore."
+	},
+	{
+	"id": 44,
+	"question": "Which gas is most abundant in atmosphere?",
+	"options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "Nitrogen forms about 78% of atmosphere."
+	},
+	{
+	"id": 45,
+	"question": "Largest state in India by area?",
+	"options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest by area."
+	},
+
+	{
+	"id": 46,
+	"question": "Right to Education was added by which amendment?",
+	"options": ["86th Amendment", "42nd Amendment", "44th Amendment", "52nd Amendment"],
+	"correctIndex": 0,
+	"explanation": "RTE was added by 86th Amendment."
+	},
+	{
+	"id": 47,
+	"question": "Blue Revolution is related to?",
+	"options": ["Agriculture", "Fish production", "Dairy", "IT sector"],
+	"correctIndex": 1,
+	"explanation": "Blue Revolution relates to fish production."
+	},
+	{
+	"id": 48,
+	"question": "Which Mughal ruler built Taj Mahal?",
+	"options": ["Babur", "Humayun", "Akbar", "Shah Jahan"],
+	"correctIndex": 3,
+	"explanation": "Shah Jahan built Taj Mahal."
+	},
+	{
+	"id": 49,
+	"question": "Which is the highest civilian award in India?",
+	"options": ["Padma Shri", "Padma Bhushan", "Bharat Ratna", "Param Vir Chakra"],
+	"correctIndex": 2,
+	"explanation": "Bharat Ratna is highest civilian award."
+	},
+	{
+	"id": 50,
+	"question": "Who is known as Iron Man of India?",
+	"options": ["Gandhi", "Nehru", "Sardar Patel", "Ambedkar"],
+	"correctIndex": 2,
+	"explanation": "Sardar Vallabhbhai Patel is Iron Man of India."
+	},
+
+	{
+	"id": 51,
+	"question": "Which article deals with Emergency provisions?",
+	"options": ["Article 352", "Article 370", "Article 368", "Article 21"],
+	"correctIndex": 0,
+	"explanation": "Article 352 deals with National Emergency."
+	},
+	{
+	"id": 52,
+	"question": "CRR is maintained by banks with?",
+	"options": ["SEBI", "RBI", "Finance Ministry", "NABARD"],
+	"correctIndex": 1,
+	"explanation": "CRR is maintained with RBI."
+	},
+	{
+	"id": 53,
+	"question": "Who discovered sea route to India?",
+	"options": ["Columbus", "Vasco da Gama", "Magellan", "Cook"],
+	"correctIndex": 1,
+	"explanation": "Vasco da Gama discovered sea route to India."
+	},
+	{
+	"id": 54,
+	"question": "Which is the smallest state in India by area?",
+	"options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+	"correctIndex": 0,
+	"explanation": "Goa is smallest state by area."
+	},
+	{
+	"id": 55,
+	"question": "Which organization conducts Civil Services Exam?",
+	"options": ["SSC", "UPSC", "TNPSC", "RBI"],
+	"correctIndex": 1,
+	"explanation": "UPSC conducts Civil Services Exam."
+	},
+	{
+	"id": 56,
+	"question": "Which body recommends distribution of tax revenue between Centre and States?",
+	"options": ["Planning Commission", "Finance Commission", "NITI Aayog", "RBI"],
+	"correctIndex": 1,
+	"explanation": "Finance Commission recommends tax distribution."
+	},
+	{
+	"id": 57,
+	"question": "How many Fundamental Rights are currently in the Constitution?",
+	"options": ["6", "7", "8", "9"],
+	"correctIndex": 0,
+	"explanation": "Currently there are 6 Fundamental Rights."
+	},
+	{
+	"id": 58,
+	"question": "The Vice President of India is elected by?",
+	"options": ["People directly", "Electoral College of MPs", "President", "Supreme Court"],
+	"correctIndex": 1,
+	"explanation": "Vice President is elected by members of Parliament."
+	},
+	{
+	"id": 59,
+	"question": "Which Article guarantees Right to Life?",
+	"options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+	"correctIndex": 2,
+	"explanation": "Article 21 guarantees Right to Life and Personal Liberty."
+	},
+	{
+	"id": 60,
+	"question": "Who presides over Rajya Sabha?",
+	"options": ["Prime Minister", "President", "Vice President", "Speaker"],
+	"correctIndex": 2,
+	"explanation": "Vice President is Chairman of Rajya Sabha."
+	},
+
+	{
+	"id": 61,
+	"question": "Which bank is known as Banker's Bank?",
+	"options": ["SBI", "RBI", "PNB", "NABARD"],
+	"correctIndex": 1,
+	"explanation": "RBI is called Banker's Bank."
+	},
+	{
+	"id": 62,
+	"question": "National Income is calculated by?",
+	"options": ["SEBI", "RBI", "CSO/NSO", "Finance Ministry"],
+	"correctIndex": 2,
+	"explanation": "National Statistical Office calculates National Income."
+	},
+	{
+	"id": 63,
+	"question": "Primary sector includes?",
+	"options": ["Manufacturing", "Services", "Agriculture", "Banking"],
+	"correctIndex": 2,
+	"explanation": "Primary sector includes agriculture and allied activities."
+	},
+	{
+	"id": 64,
+	"question": "Which Five Year Plan focused on Green Revolution?",
+	"options": ["First", "Second", "Third", "Fourth"],
+	"correctIndex": 2,
+	"explanation": "Green Revolution was during Third Five Year Plan."
+	},
+	{
+	"id": 65,
+	"question": "World Bank headquarters is in?",
+	"options": ["New York", "London", "Washington DC", "Geneva"],
+	"correctIndex": 2,
+	"explanation": "World Bank is headquartered in Washington DC."
+	},
+
+	{
+	"id": 66,
+	"question": "Who founded the Gupta Empire?",
+	"options": ["Chandragupta I", "Ashoka", "Harsha", "Samudragupta"],
+	"correctIndex": 0,
+	"explanation": "Chandragupta I founded Gupta Empire."
+	},
+	{
+	"id": 67,
+	"question": "Permanent Settlement was introduced by?",
+	"options": ["Lord Cornwallis", "Lord Curzon", "Dalhousie", "Warren Hastings"],
+	"correctIndex": 0,
+	"explanation": "Permanent Settlement was introduced by Lord Cornwallis."
+	},
+	{
+	"id": 68,
+	"question": "Who gave the slogan 'Inquilab Zindabad'?",
+	"options": ["Bhagat Singh", "Gandhi", "Nehru", "Subhash Bose"],
+	"correctIndex": 0,
+	"explanation": "Bhagat Singh popularized the slogan."
+	},
+	{
+	"id": 69,
+	"question": "Simon Commission arrived in India in?",
+	"options": ["1919", "1927", "1935", "1942"],
+	"correctIndex": 1,
+	"explanation": "Simon Commission arrived in 1927."
+	},
+	{
+	"id": 70,
+	"question": "The Cabinet Mission came to India in?",
+	"options": ["1942", "1946", "1930", "1950"],
+	"correctIndex": 1,
+	"explanation": "Cabinet Mission came in 1946."
+	},
+
+	{
+	"id": 71,
+	"question": "Which is the longest coastline state in India?",
+	"options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Kerala"],
+	"correctIndex": 1,
+	"explanation": "Gujarat has longest coastline."
+	},
+	{
+	"id": 72,
+	"question": "Mount Everest lies in?",
+	"options": ["India", "Nepal", "Bhutan", "China only"],
+	"correctIndex": 1,
+	"explanation": "Mount Everest lies in Nepal-China border."
+	},
+	{
+	"id": 73,
+	"question": "Sundarbans are famous for?",
+	"options": ["Desert", "Mangrove Forest", "Mountains", "Plateau"],
+	"correctIndex": 1,
+	"explanation": "Sundarbans are mangrove forests."
+	},
+	{
+	"id": 74,
+	"question": "Which is the largest dam in India?",
+	"options": ["Bhakra Nangal", "Hirakud", "Tehri", "Nagarjuna Sagar"],
+	"correctIndex": 1,
+	"explanation": "Hirakud is one of the longest dams."
+	},
+	{
+	"id": 75,
+	"question": "Which layer protects Earth from UV rays?",
+	"options": ["Troposphere", "Ozone layer", "Mesosphere", "Ionosphere"],
+	"correctIndex": 1,
+	"explanation": "Ozone layer absorbs UV radiation."
+	},
+
+	{
+	"id": 76,
+	"question": "Which vitamin is produced by sunlight?",
+	"options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+	"correctIndex": 3,
+	"explanation": "Vitamin D is produced with sunlight exposure."
+	},
+	{
+	"id": 77,
+	"question": "Chandrayaan mission is related to?",
+	"options": ["Mars", "Moon", "Sun", "Venus"],
+	"correctIndex": 1,
+	"explanation": "Chandrayaan mission is lunar mission."
+	},
+	{
+	"id": 78,
+	"question": "Which is the fastest land animal?",
+	"options": ["Tiger", "Lion", "Cheetah", "Leopard"],
+	"correctIndex": 2,
+	"explanation": "Cheetah is fastest land animal."
+	},
+	{
+	"id": 79,
+	"question": "COP meetings are related to?",
+	"options": ["Trade", "Climate Change", "Sports", "Health"],
+	"correctIndex": 1,
+	"explanation": "COP meetings discuss climate change."
+	},
+	{
+	"id": 80,
+	"question": "Which gas causes Global Warming?",
+	"options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+	"correctIndex": 2,
+	"explanation": "CO2 contributes to global warming."
+	},
+
+	{
+	"id": 81,
+	"question": "Which state is known as Land of Five Rivers?",
+	"options": ["Punjab", "Haryana", "UP", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Punjab is Land of Five Rivers."
+	},
+	{
+	"id": 82,
+	"question": "Right to Constitutional Remedies is under Article?",
+	"options": ["32", "19", "21", "14"],
+	"correctIndex": 0,
+	"explanation": "Article 32 provides Right to Constitutional Remedies."
+	},
+	{
+	"id": 83,
+	"question": "Which Indian satellite launched for navigation?",
+	"options": ["INSAT", "NAVIC", "Aryabhata", "GSAT"],
+	"correctIndex": 1,
+	"explanation": "NAVIC provides navigation services."
+	},
+	{
+	"id": 84,
+	"question": "Which Mughal ruler abolished Jizya tax?",
+	"options": ["Babur", "Akbar", "Aurangzeb", "Humayun"],
+	"correctIndex": 1,
+	"explanation": "Akbar abolished Jizya tax."
+	},
+	{
+	"id": 85,
+	"question": "Indian Constitution came into effect on?",
+	"options": ["15 August 1947", "26 January 1950", "26 November 1949", "2 October 1950"],
+	"correctIndex": 1,
+	"explanation": "It came into effect on 26 January 1950."
+	},
+	{
+	"id": 86,
+	"question": "Which amendment is known as the Mini Constitution?",
+	"options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "61st Amendment"],
+	"correctIndex": 0,
+	"explanation": "42nd Amendment is called the Mini Constitution."
+	},
+	{
+	"id": 87,
+	"question": "The Comptroller and Auditor General (CAG) is appointed by?",
+	"options": ["Prime Minister", "President", "Chief Justice", "Parliament"],
+	"correctIndex": 1,
+	"explanation": "CAG is appointed by the President of India."
+	},
+	{
+	"id": 88,
+	"question": "Which schedule contains Anti-Defection Law?",
+	"options": ["8th Schedule", "9th Schedule", "10th Schedule", "11th Schedule"],
+	"correctIndex": 2,
+	"explanation": "Anti-Defection Law is in the 10th Schedule."
+	},
+	{
+	"id": 89,
+	"question": "Lok Adalat is related to?",
+	"options": ["Banking", "Judicial System", "Education", "Elections"],
+	"correctIndex": 1,
+	"explanation": "Lok Adalat provides alternative dispute resolution."
+	},
+	{
+	"id": 90,
+	"question": "Which Article deals with amendment of the Constitution?",
+	"options": ["Article 352", "Article 368", "Article 370", "Article 356"],
+	"correctIndex": 1,
+	"explanation": "Article 368 deals with Constitutional amendments."
+	},
+
+	{
+	"id": 91,
+	"question": "Which organization issues currency notes in India?",
+	"options": ["Finance Ministry", "RBI", "SEBI", "SBI"],
+	"correctIndex": 1,
+	"explanation": "RBI issues currency notes."
+	},
+	{
+	"id": 92,
+	"question": "Disinvestment means?",
+	"options": ["Government buying shares", "Government selling shares", "Tax collection", "Bank lending"],
+	"correctIndex": 1,
+	"explanation": "Disinvestment means selling government shares."
+	},
+	{
+	"id": 93,
+	"question": "Which is the apex agricultural bank in India?",
+	"options": ["RBI", "SBI", "NABARD", "SEBI"],
+	"correctIndex": 2,
+	"explanation": "NABARD is apex agricultural bank."
+	},
+	{
+	"id": 94,
+	"question": "GST Council is headed by?",
+	"options": ["Prime Minister", "Finance Minister", "RBI Governor", "President"],
+	"correctIndex": 1,
+	"explanation": "Union Finance Minister heads GST Council."
+	},
+	{
+	"id": 95,
+	"question": "Which type of unemployment is common in agriculture?",
+	"options": ["Frictional", "Structural", "Disguised", "Cyclical"],
+	"correctIndex": 2,
+	"explanation": "Disguised unemployment is common in agriculture."
+	},
+
+	{
+	"id": 96,
+	"question": "Who was the first President of India?",
+	"options": ["Dr. Rajendra Prasad", "Nehru", "Ambedkar", "Sardar Patel"],
+	"correctIndex": 0,
+	"explanation": "Dr. Rajendra Prasad was first President."
+	},
+	{
+	"id": 97,
+	"question": "Non-Cooperation Movement started in?",
+	"options": ["1919", "1920", "1930", "1942"],
+	"correctIndex": 1,
+	"explanation": "Non-Cooperation Movement started in 1920."
+	},
+	{
+	"id": 98,
+	"question": "The Jallianwala Bagh massacre occurred in?",
+	"options": ["1919", "1921", "1930", "1947"],
+	"correctIndex": 0,
+	"explanation": "It occurred in 1919."
+	},
+	{
+	"id": 99,
+	"question": "Who founded Arya Samaj?",
+	"options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Dayananda Saraswati", "Tilak"],
+	"correctIndex": 2,
+	"explanation": "Arya Samaj was founded by Dayananda Saraswati."
+	},
+	{
+	"id": 100,
+	"question": "The capital of Mauryan Empire was?",
+	"options": ["Pataliputra", "Delhi", "Agra", "Madurai"],
+	"correctIndex": 0,
+	"explanation": "Pataliputra was capital of Mauryan Empire."
+	},
+
+	{
+	"id": 101,
+	"question": "Which is the highest peak in South India?",
+	"options": ["Anamudi", "Nilgiri", "Kodaikanal", "Palani"],
+	"correctIndex": 0,
+	"explanation": "Anamudi is highest peak in South India."
+	},
+	{
+	"id": 102,
+	"question": "Which Indian state shares longest international border?",
+	"options": ["Punjab", "West Bengal", "Rajasthan", "Assam"],
+	"correctIndex": 1,
+	"explanation": "West Bengal shares longest international border."
+	},
+	{
+	"id": 103,
+	"question": "Which element is essential for hemoglobin?",
+	"options": ["Calcium", "Iron", "Magnesium", "Zinc"],
+	"correctIndex": 1,
+	"explanation": "Iron is essential for hemoglobin."
+	},
+	{
+	"id": 104,
+	"question": "Which country launched the first artificial satellite?",
+	"options": ["USA", "Russia (USSR)", "China", "India"],
+	"correctIndex": 1,
+	"explanation": "USSR launched Sputnik in 1957."
+	},
+	{
+	"id": 105,
+	"question": "Which day is celebrated as Constitution Day in India?",
+	"options": ["26 January", "15 August", "26 November", "2 October"],
+	"correctIndex": 2,
+	"explanation": "26 November is Constitution Day."
+	},
+	{
+	"id": 106,
+	"question": "Which Article deals with President's Rule?",
+	"options": ["352", "356", "360", "368"],
+	"correctIndex": 1,
+	"explanation": "Article 356 deals with President's Rule."
+	},
+	{
+	"id": 107,
+	"question": "The Attorney General of India is appointed by?",
+	"options": ["Prime Minister", "President", "Chief Justice", "Parliament"],
+	"correctIndex": 1,
+	"explanation": "The President appoints the Attorney General."
+	},
+	{
+	"id": 108,
+	"question": "Which body conducts TNPSC exams?",
+	"options": ["UPSC", "SSC", "TNPSC", "RBI"],
+	"correctIndex": 2,
+	"explanation": "TNPSC conducts Tamil Nadu state civil service exams."
+	},
+	{
+	"id": 109,
+	"question": "The Speaker of Lok Sabha is elected by?",
+	"options": ["President", "Prime Minister", "Members of Lok Sabha", "Chief Justice"],
+	"correctIndex": 2,
+	"explanation": "Speaker is elected by Lok Sabha members."
+	},
+	{
+	"id": 110,
+	"question": "Which Article deals with Financial Emergency?",
+	"options": ["352", "356", "360", "370"],
+	"correctIndex": 2,
+	"explanation": "Article 360 deals with Financial Emergency."
+	},
+
+	{
+	"id": 111,
+	"question": "Which is the largest public sector bank in India?",
+	"options": ["SBI", "PNB", "Canara Bank", "BoB"],
+	"correctIndex": 0,
+	"explanation": "State Bank of India is the largest PSU bank."
+	},
+	{
+	"id": 112,
+	"question": "HDI stands for?",
+	"options": ["Human Development Index", "High Development Index", "Human Data Index", "High Data Indicator"],
+	"correctIndex": 0,
+	"explanation": "HDI means Human Development Index."
+	},
+	{
+	"id": 113,
+	"question": "Which institution prints paper currency?",
+	"options": ["SEBI", "RBI", "Finance Ministry", "SBI"],
+	"correctIndex": 1,
+	"explanation": "RBI prints currency notes."
+	},
+	{
+	"id": 114,
+	"question": "Which tax is collected by State Government?",
+	"options": ["Income Tax", "Custom Duty", "State GST", "Corporate Tax"],
+	"correctIndex": 2,
+	"explanation": "State GST is collected by State Governments."
+	},
+	{
+	"id": 115,
+	"question": "Which sector is called backbone of Indian economy?",
+	"options": ["Agriculture", "Industry", "Services", "Banking"],
+	"correctIndex": 0,
+	"explanation": "Agriculture is backbone of Indian economy."
+	},
+
+	{
+	"id": 116,
+	"question": "Who was the first Mughal Emperor?",
+	"options": ["Akbar", "Babur", "Humayun", "Shah Jahan"],
+	"correctIndex": 1,
+	"explanation": "Babur founded the Mughal Empire."
+	},
+	{
+	"id": 117,
+	"question": "The Regulating Act was passed in?",
+	"options": ["1773", "1858", "1813", "1793"],
+	"correctIndex": 0,
+	"explanation": "Regulating Act was passed in 1773."
+	},
+	{
+	"id": 118,
+	"question": "Doctrine of Lapse was introduced by?",
+	"options": ["Dalhousie", "Cornwallis", "Curzon", "Wellesley"],
+	"correctIndex": 0,
+	"explanation": "Lord Dalhousie introduced Doctrine of Lapse."
+	},
+	{
+	"id": 119,
+	"question": "Who gave the slogan 'Do or Die'?",
+	"options": ["Nehru", "Subhash Bose", "Gandhi", "Tilak"],
+	"correctIndex": 2,
+	"explanation": "Gandhi gave 'Do or Die' during Quit India Movement."
+	},
+	{
+	"id": 120,
+	"question": "Who was the first Prime Minister of India?",
+	"options": ["Rajendra Prasad", "Nehru", "Patel", "Gandhi"],
+	"correctIndex": 1,
+	"explanation": "Jawaharlal Nehru was first PM."
+	},
+
+	{
+	"id": 121,
+	"question": "Which is the largest plateau in India?",
+	"options": ["Deccan Plateau", "Chota Nagpur", "Malwa", "Bundelkhand"],
+	"correctIndex": 0,
+	"explanation": "Deccan Plateau is largest."
+	},
+	{
+	"id": 122,
+	"question": "Which is the smallest Union Territory?",
+	"options": ["Lakshadweep", "Delhi", "Puducherry", "Chandigarh"],
+	"correctIndex": 0,
+	"explanation": "Lakshadweep is smallest UT."
+	},
+	{
+	"id": 123,
+	"question": "Which river originates from Gangotri glacier?",
+	"options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+	"correctIndex": 1,
+	"explanation": "Ganga originates from Gangotri glacier."
+	},
+	{
+	"id": 124,
+	"question": "Which soil is best for cotton?",
+	"options": ["Alluvial", "Red", "Black", "Laterite"],
+	"correctIndex": 2,
+	"explanation": "Black soil is ideal for cotton."
+	},
+	{
+	"id": 125,
+	"question": "Which state produces highest rice in India?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+
+	{
+	"id": 126,
+	"question": "Which metal is liquid at room temperature?",
+	"options": ["Mercury", "Iron", "Copper", "Aluminium"],
+	"correctIndex": 0,
+	"explanation": "Mercury is liquid at room temperature."
+	},
+	{
+	"id": 127,
+	"question": "Which planet has maximum moons?",
+	"options": ["Earth", "Mars", "Jupiter", "Venus"],
+	"correctIndex": 2,
+	"explanation": "Jupiter has maximum known moons."
+	},
+	{
+	"id": 128,
+	"question": "Which vitamin prevents scurvy?",
+	"options": ["A", "B", "C", "D"],
+	"correctIndex": 2,
+	"explanation": "Vitamin C prevents scurvy."
+	},
+	{
+	"id": 129,
+	"question": "ISRO was established in?",
+	"options": ["1969", "1950", "1975", "1980"],
+	"correctIndex": 0,
+	"explanation": "ISRO was established in 1969."
+	},
+	{
+	"id": 130,
+	"question": "Which organ purifies blood?",
+	"options": ["Heart", "Kidney", "Lungs", "Liver"],
+	"correctIndex": 1,
+	"explanation": "Kidney purifies blood."
+	},
+	{
+	"id": 131,
+	"question": "Which amendment reduced voting age from 21 to 18?",
+	"options": ["42nd", "44th", "61st", "73rd"],
+	"correctIndex": 2,
+	"explanation": "61st Amendment reduced voting age to 18."
+	},
+	{
+	"id": 132,
+	"question": "Which body prepares electoral rolls in India?",
+	"options": ["RBI", "Election Commission", "Parliament", "Supreme Court"],
+	"correctIndex": 1,
+	"explanation": "Election Commission prepares electoral rolls."
+	},
+	{
+	"id": 133,
+	"question": "Which Article deals with Right to Equality?",
+	"options": ["14", "19", "21", "25"],
+	"correctIndex": 0,
+	"explanation": "Article 14 ensures Right to Equality."
+	},
+	{
+	"id": 134,
+	"question": "Which Schedule lists official languages?",
+	"options": ["7th", "8th", "9th", "10th"],
+	"correctIndex": 1,
+	"explanation": "8th Schedule lists official languages."
+	},
+	{
+	"id": 135,
+	"question": "Panchayati Raj was introduced by which amendment?",
+	"options": ["42nd", "73rd", "74th", "86th"],
+	"correctIndex": 1,
+	"explanation": "73rd Amendment introduced Panchayati Raj."
+	},
+
+	{
+	"id": 136,
+	"question": "Which is apex financial planning body in India?",
+	"options": ["RBI", "SEBI", "NITI Aayog", "Finance Commission"],
+	"correctIndex": 2,
+	"explanation": "NITI Aayog replaced Planning Commission."
+	},
+	{
+	"id": 137,
+	"question": "Which is India's largest export commodity?",
+	"options": ["Rice", "Petroleum Products", "Tea", "Cotton"],
+	"correctIndex": 1,
+	"explanation": "Petroleum products are major export."
+	},
+	{
+	"id": 138,
+	"question": "Repo rate decrease will?",
+	"options": ["Reduce liquidity", "Increase liquidity", "Increase taxes", "Reduce GDP"],
+	"correctIndex": 1,
+	"explanation": "Repo rate cut increases liquidity."
+	},
+	{
+	"id": 139,
+	"question": "Which organization regulates insurance sector?",
+	"options": ["RBI", "IRDAI", "SEBI", "NABARD"],
+	"correctIndex": 1,
+	"explanation": "IRDAI regulates insurance sector."
+	},
+	{
+	"id": 140,
+	"question": "Which scheme is related to rural employment?",
+	"options": ["PMJDY", "MGNREGA", "PMAY", "UDAY"],
+	"correctIndex": 1,
+	"explanation": "MGNREGA provides rural employment."
+	},
+
+	{
+	"id": 141,
+	"question": "Who established the Slave Dynasty?",
+	"options": ["Qutb-ud-din Aibak", "Balban", "Iltutmish", "Alauddin Khilji"],
+	"correctIndex": 0,
+	"explanation": "Qutb-ud-din Aibak founded Slave Dynasty."
+	},
+	{
+	"id": 142,
+	"question": "Who wrote 'Discovery of India'?",
+	"options": ["Gandhi", "Nehru", "Ambedkar", "Tilak"],
+	"correctIndex": 1,
+	"explanation": "Jawaharlal Nehru wrote Discovery of India."
+	},
+	{
+	"id": 143,
+	"question": "Partition of Bengal happened in?",
+	"options": ["1905", "1919", "1935", "1947"],
+	"correctIndex": 0,
+	"explanation": "Partition of Bengal occurred in 1905."
+	},
+	{
+	"id": 144,
+	"question": "Rowlatt Act was passed in?",
+	"options": ["1919", "1920", "1930", "1942"],
+	"correctIndex": 0,
+	"explanation": "Rowlatt Act was passed in 1919."
+	},
+	{
+	"id": 145,
+	"question": "Indian National Army was formed by?",
+	"options": ["Gandhi", "Nehru", "Subhash Chandra Bose", "Patel"],
+	"correctIndex": 2,
+	"explanation": "INA was led by Subhash Chandra Bose."
+	},
+
+	{
+	"id": 146,
+	"question": "Which is the highest waterfall in India?",
+	"options": ["Jog Falls", "Dudhsagar", "Athirapally", "Hogenakkal"],
+	"correctIndex": 0,
+	"explanation": "Jog Falls is highest waterfall in India."
+	},
+	{
+	"id": 147,
+	"question": "Which river is called Sorrow of Bihar?",
+	"options": ["Ganga", "Kosi", "Yamuna", "Brahmaputra"],
+	"correctIndex": 1,
+	"explanation": "Kosi is called Sorrow of Bihar."
+	},
+	{
+	"id": 148,
+	"question": "Which is largest freshwater lake in India?",
+	"options": ["Chilika", "Wular", "Dal", "Pulicat"],
+	"correctIndex": 1,
+	"explanation": "Wular Lake is largest freshwater lake."
+	},
+	{
+	"id": 149,
+	"question": "Western Ghats are also called?",
+	"options": ["Nilgiris", "Sahyadris", "Aravallis", "Vindhyas"],
+	"correctIndex": 1,
+	"explanation": "Western Ghats are called Sahyadris."
+	},
+	{
+	"id": 150,
+	"question": "Which is the southernmost point of India?",
+	"options": ["Kanyakumari", "Indira Point", "Rameswaram", "Tuticorin"],
+	"correctIndex": 1,
+	"explanation": "Indira Point is southernmost point."
+	},
+
+	{
+	"id": 151,
+	"question": "Which blood group is universal donor?",
+	"options": ["A", "B", "O negative", "AB"],
+	"correctIndex": 2,
+	"explanation": "O negative is universal donor."
+	},
+	{
+	"id": 152,
+	"question": "Which part of cell contains genetic material?",
+	"options": ["Nucleus", "Cytoplasm", "Membrane", "Mitochondria"],
+	"correctIndex": 0,
+	"explanation": "Nucleus contains DNA."
+	},
+	{
+	"id": 153,
+	"question": "Which gas is used in balloons?",
+	"options": ["Oxygen", "Hydrogen", "Helium", "Nitrogen"],
+	"correctIndex": 2,
+	"explanation": "Helium is used in balloons."
+	},
+	{
+	"id": 154,
+	"question": "Which is hardest natural substance?",
+	"options": ["Gold", "Iron", "Diamond", "Silver"],
+	"correctIndex": 2,
+	"explanation": "Diamond is hardest natural substance."
+	},
+	{
+	"id": 155,
+	"question": "Which vitamin helps in blood clotting?",
+	"options": ["A", "B", "C", "K"],
+	"correctIndex": 3,
+	"explanation": "Vitamin K helps in clotting."
+	},
+
+	{
+	"id": 156,
+	"question": "Which is India's national aquatic animal?",
+	"options": ["Shark", "Dolphin", "Whale", "Turtle"],
+	"correctIndex": 1,
+	"explanation": "Gangetic Dolphin is national aquatic animal."
+	},
+	{
+	"id": 157,
+	"question": "Which country hosted first Olympics?",
+	"options": ["USA", "France", "Greece", "UK"],
+	"correctIndex": 2,
+	"explanation": "Greece hosted first modern Olympics."
+	},
+	{
+	"id": 158,
+	"question": "Which is longest river in the world?",
+	"options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+	"correctIndex": 1,
+	"explanation": "Nile is traditionally considered longest."
+	},
+	{
+	"id": 159,
+	"question": "Which continent is largest?",
+	"options": ["Africa", "Asia", "Europe", "North America"],
+	"correctIndex": 1,
+	"explanation": "Asia is largest continent."
+	},
+	{
+	"id": 160,
+	"question": "UNO headquarters is in?",
+	"options": ["Geneva", "New York", "Paris", "London"],
+	"correctIndex": 1,
+	"explanation": "UNO headquarters is in New York."
+	},
+	{
+	"id": 161,
+	"question": "Which Amendment introduced GST in India?",
+	"options": ["101st", "102nd", "100th", "104th"],
+	"correctIndex": 0,
+	"explanation": "101st Constitutional Amendment introduced GST."
+	},
+	{
+	"id": 162,
+	"question": "The Chairman of UPSC is appointed by?",
+	"options": ["Prime Minister", "President", "Chief Justice", "Parliament"],
+	"correctIndex": 1,
+	"explanation": "UPSC Chairman is appointed by the President."
+	},
+	{
+	"id": 163,
+	"question": "Which Article deals with abolition of Untouchability?",
+	"options": ["14", "17", "19", "21"],
+	"correctIndex": 1,
+	"explanation": "Article 17 abolishes Untouchability."
+	},
+	{
+	"id": 164,
+	"question": "Rajya Sabha is a permanent body because?",
+	"options": ["It cannot be dissolved", "President controls it", "PM controls it", "Supreme Court manages it"],
+	"correctIndex": 0,
+	"explanation": "Rajya Sabha is not subject to dissolution."
+	},
+	{
+	"id": 165,
+	"question": "Which is the highest court in India?",
+	"options": ["High Court", "District Court", "Supreme Court", "Session Court"],
+	"correctIndex": 2,
+	"explanation": "Supreme Court is the highest judicial authority."
+	},
+
+	{
+	"id": 166,
+	"question": "Which organization regulates mutual funds?",
+	"options": ["RBI", "SEBI", "IRDAI", "NABARD"],
+	"correctIndex": 1,
+	"explanation": "SEBI regulates mutual funds."
+	},
+	{
+	"id": 167,
+	"question": "Which index measures inflation in retail market?",
+	"options": ["WPI", "CPI", "GDP Deflator", "HDI"],
+	"correctIndex": 1,
+	"explanation": "CPI measures retail inflation."
+	},
+	{
+	"id": 168,
+	"question": "Which is India's central bank?",
+	"options": ["SBI", "NABARD", "RBI", "SEBI"],
+	"correctIndex": 2,
+	"explanation": "RBI is India's central bank."
+	},
+	{
+	"id": 169,
+	"question": "Which scheme is related to financial inclusion?",
+	"options": ["PMJDY", "PMAY", "UDAY", "MGNREGA"],
+	"correctIndex": 0,
+	"explanation": "Pradhan Mantri Jan Dhan Yojana promotes financial inclusion."
+	},
+	{
+	"id": 170,
+	"question": "Which body monitors fiscal discipline?",
+	"options": ["Finance Commission", "RBI", "CAG", "SEBI"],
+	"correctIndex": 2,
+	"explanation": "CAG audits government accounts."
+	},
+
+	{
+	"id": 171,
+	"question": "Who founded the Mughal Empire?",
+	"options": ["Akbar", "Babur", "Humayun", "Aurangzeb"],
+	"correctIndex": 1,
+	"explanation": "Babur founded the Mughal Empire."
+	},
+	{
+	"id": 172,
+	"question": "Which act transferred power from East India Company to British Crown?",
+	"options": ["Regulating Act", "Pitt's India Act", "Government of India Act 1858", "Indian Councils Act"],
+	"correctIndex": 2,
+	"explanation": "Government of India Act 1858 transferred power."
+	},
+	{
+	"id": 173,
+	"question": "The Swadeshi Movement began in response to?",
+	"options": ["Rowlatt Act", "Partition of Bengal", "Simon Commission", "Salt Tax"],
+	"correctIndex": 1,
+	"explanation": "Swadeshi Movement opposed Partition of Bengal."
+	},
+	{
+	"id": 174,
+	"question": "Who was the first Governor-General of independent India?",
+	"options": ["Mountbatten", "C. Rajagopalachari", "Nehru", "Rajendra Prasad"],
+	"correctIndex": 0,
+	"explanation": "Lord Mountbatten was first Governor-General after independence."
+	},
+	{
+	"id": 175,
+	"question": "The Poona Pact was signed between Gandhi and?",
+	"options": ["Ambedkar", "Nehru", "Tilak", "Patel"],
+	"correctIndex": 0,
+	"explanation": "Poona Pact was between Gandhi and Dr. B.R. Ambedkar."
+	},
+
+	{
+	"id": 176,
+	"question": "Which is the longest river in South India?",
+	"options": ["Krishna", "Godavari", "Cauvery", "Vaigai"],
+	"correctIndex": 1,
+	"explanation": "Godavari is longest river in South India."
+	},
+	{
+	"id": 177,
+	"question": "Which Indian state has highest population?",
+	"options": ["Bihar", "UP", "Maharashtra", "West Bengal"],
+	"correctIndex": 1,
+	"explanation": "Uttar Pradesh has highest population."
+	},
+	{
+	"id": 178,
+	"question": "Which is largest ocean?",
+	"options": ["Indian", "Atlantic", "Pacific", "Arctic"],
+	"correctIndex": 2,
+	"explanation": "Pacific Ocean is largest."
+	},
+	{
+	"id": 179,
+	"question": "Which Indian city is known as Pink City?",
+	"options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
+	"correctIndex": 1,
+	"explanation": "Jaipur is known as Pink City."
+	},
+	{
+	"id": 180,
+	"question": "Which plateau lies between Eastern and Western Ghats?",
+	"options": ["Malwa", "Deccan", "Chota Nagpur", "Bundelkhand"],
+	"correctIndex": 1,
+	"explanation": "Deccan Plateau lies between Eastern & Western Ghats."
+	},
+
+	{
+	"id": 181,
+	"question": "Which gas is used in fire extinguishers?",
+	"options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+	"correctIndex": 2,
+	"explanation": "CO2 is used in fire extinguishers."
+	},
+	{
+	"id": 182,
+	"question": "Which vitamin deficiency causes rickets?",
+	"options": ["A", "B", "C", "D"],
+	"correctIndex": 3,
+	"explanation": "Vitamin D deficiency causes rickets."
+	},
+	{
+	"id": 183,
+	"question": "Which organ produces insulin?",
+	"options": ["Liver", "Kidney", "Pancreas", "Heart"],
+	"correctIndex": 2,
+	"explanation": "Pancreas produces insulin."
+	},
+	{
+	"id": 184,
+	"question": "Which instrument measures earthquakes?",
+	"options": ["Thermometer", "Seismograph", "Barometer", "Hygrometer"],
+	"correctIndex": 1,
+	"explanation": "Seismograph measures earthquakes."
+	},
+	{
+	"id": 185,
+	"question": "Which country is called Land of Rising Sun?",
+	"options": ["China", "Japan", "Thailand", "Korea"],
+	"correctIndex": 1,
+	"explanation": "Japan is called Land of Rising Sun."
+	},
+
+	{
+	"id": 186,
+	"question": "Which is India's national bird?",
+	"options": ["Sparrow", "Peacock", "Eagle", "Parrot"],
+	"correctIndex": 1,
+	"explanation": "Peacock is national bird."
+	},
+	{
+	"id": 187,
+	"question": "Which is India's national animal?",
+	"options": ["Lion", "Tiger", "Elephant", "Leopard"],
+	"correctIndex": 1,
+	"explanation": "Tiger is national animal."
+	},
+	{
+	"id": 188,
+	"question": "Which is India's national flower?",
+	"options": ["Rose", "Jasmine", "Lotus", "Lily"],
+	"correctIndex": 2,
+	"explanation": "Lotus is national flower."
+	},
+	{
+	"id": 189,
+	"question": "Which day is celebrated as Independence Day?",
+	"options": ["15 August", "26 January", "2 October", "26 November"],
+	"correctIndex": 0,
+	"explanation": "India celebrates Independence Day on 15 August."
+	},
+	{
+	"id": 190,
+	"question": "Which day is celebrated as Republic Day?",
+	"options": ["15 August", "26 January", "2 October", "14 November"],
+	"correctIndex": 1,
+	"explanation": "Republic Day is celebrated on 26 January."
+	},
+	{
+	"id": 191,
+	"question": "Which part of the Constitution deals with Citizenship?",
+	"options": ["Part I", "Part II", "Part III", "Part IV"],
+	"correctIndex": 1,
+	"explanation": "Part II of the Constitution deals with Citizenship."
+	},
+	{
+	"id": 192,
+	"question": "The Election Commission of India is mentioned under which Article?",
+	"options": ["Article 324", "Article 356", "Article 368", "Article 370"],
+	"correctIndex": 0,
+	"explanation": "Article 324 provides for Election Commission."
+	},
+	{
+	"id": 193,
+	"question": "Which is the largest Public Sector Undertaking in India?",
+	"options": ["SBI", "ONGC", "LIC", "NTPC"],
+	"correctIndex": 2,
+	"explanation": "LIC is one of the largest PSUs in India."
+	},
+	{
+	"id": 194,
+	"question": "Which freedom fighter founded Forward Bloc?",
+	"options": ["Gandhi", "Subhash Chandra Bose", "Nehru", "Tilak"],
+	"correctIndex": 1,
+	"explanation": "Forward Bloc was founded by Subhash Chandra Bose."
+	},
+	{
+	"id": 195,
+	"question": "Which is the deepest ocean in the world?",
+	"options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+	"correctIndex": 2,
+	"explanation": "Pacific Ocean is the deepest ocean."
+	},
+
+	{
+	"id": 196,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Tamil Nadu", "Kerala", "Maharashtra", "Punjab"],
+	"correctIndex": 1,
+	"explanation": "Kerala has highest literacy rate."
+	},
+	{
+	"id": 197,
+	"question": "Which is India's national sport (traditional)?",
+	"options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+	"correctIndex": 1,
+	"explanation": "Field Hockey is traditionally considered national sport."
+	},
+	{
+	"id": 198,
+	"question": "Which organization replaced Planning Commission?",
+	"options": ["Finance Commission", "NITI Aayog", "SEBI", "RBI"],
+	"correctIndex": 1,
+	"explanation": "NITI Aayog replaced Planning Commission."
+	},
+	{
+	"id": 199,
+	"question": "Which planet is closest to the Sun?",
+	"options": ["Venus", "Earth", "Mercury", "Mars"],
+	"correctIndex": 2,
+	"explanation": "Mercury is closest planet to the Sun."
+	},
+	{
+	"id": 200,
+	"question": "Which Indian mission successfully landed on the Moon's south pole?",
+	"options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+	"correctIndex": 2,
+	"explanation": "Chandrayaan-3 successfully landed near Moon's south pole."
+	}
+
+  ],
+
+  "materials": [
+
+    { "title": "Indian Polity – Laxmikanth", "desc": "Complete polity reference", "link": "https://example.com/polity" },
+    { "title": "Indian Economy Basics", "desc": "Economic concepts", "link": "https://example.com/economy" },
+    { "title": "Modern History Notes", "desc": "Freedom struggle", "link": "https://example.com/history" },
+    { "title": "Geography of India", "desc": "Physical & economic geography", "link": "https://example.com/geography" },
+    { "title": "Current Affairs Monthly PDF", "desc": "Latest updates", "link": "https://example.com/ca" },
+    { "title": "Ethics Notes", "desc": "Integrity & Aptitude", "link": "https://example.com/ethics" },
+    { "title": "TN History", "desc": "Tamil Nadu History", "link": "https://example.com/tnhistory" },
+    { "title": "Environment Notes", "desc": "Ecology topics", "link": "https://example.com/env" },
+    { "title": "Science & Tech", "desc": "Latest developments", "link": "https://example.com/science" },
+    { "title": "International Relations", "desc": "Foreign policy", "link": "https://example.com/ir" },
+    { "title": "Indian Constitution Summary", "desc": "Quick revision", "link": "https://example.com/constitution" },
+    { "title": "Budget & Economic Survey", "desc": "Important points", "link": "https://example.com/budget" },
+    { "title": "Disaster Management", "desc": "Preparedness & mitigation", "link": "https://example.com/disaster" },
+    { "title": "Agriculture Notes", "desc": "Indian agriculture", "link": "https://example.com/agri" },
+    { "title": "Art & Culture", "desc": "Indian culture topics", "link": "https://example.com/culture" },
+    { "title": "Social Issues", "desc": "Poverty, education", "link": "https://example.com/social" },
+    { "title": "Governance Notes", "desc": "Public administration", "link": "https://example.com/governance" },
+    { "title": "TNPSC Official Syllabus", "desc": "Group 1 syllabus", "link": "https://tnpsc.gov.in" },
+    { "title": "Previous Year Questions", "desc": "PYQ collection", "link": "https://example.com/pyq" },
+    { "title": "Mock Test PDFs", "desc": "Practice papers", "link": "https://example.com/mock" }
+
+  ],
+
+  "videos": [
+
+    { "title": "Group 1 Polity Tamil", "link": "https://youtube.com/" },
+    { "title": "Group 1 Economy Tamil", "link": "https://youtube.com/" },
+    { "title": "Modern History Tamil", "link": "https://youtube.com/" },
+    { "title": "Geography Tamil", "link": "https://youtube.com/" },
+    { "title": "Current Affairs Tamil", "link": "https://youtube.com/" },
+    { "title": "Ethics Tamil", "link": "https://youtube.com/" },
+    { "title": "Environment Tamil", "link": "https://youtube.com/" },
+    { "title": "Science Tamil", "link": "https://youtube.com/" },
+    { "title": "TN History Tamil", "link": "https://youtube.com/" },
+    { "title": "Budget Analysis Tamil", "link": "https://youtube.com/" },
+    { "title": "Indian Constitution Tamil", "link": "https://youtube.com/" },
+    { "title": "Agriculture Tamil", "link": "https://youtube.com/" },
+    { "title": "Art & Culture Tamil", "link": "https://youtube.com/" },
+    { "title": "Governance Tamil", "link": "https://youtube.com/" },
+    { "title": "Disaster Management Tamil", "link": "https://youtube.com/" },
+    { "title": "IR Tamil", "link": "https://youtube.com/" },
+    { "title": "Mock Test Discussion", "link": "https://youtube.com/" },
+    { "title": "CSAT Tamil", "link": "https://youtube.com/" },
+    { "title": "Essay Strategy Tamil", "link": "https://youtube.com/" },
+    { "title": "Prelims Strategy Tamil", "link": "https://youtube.com/" }
+
+  ],
+
+  "community": [
+
+    { "title": "Group 1 Telegram Main", "link": "https://t.me/" },
+    { "title": "Group 1 Telegram Doubts", "link": "https://t.me/" },
+    { "title": "Group 1 WhatsApp 1", "link": "https://wa.me/" },
+    { "title": "Group 1 WhatsApp 2", "link": "https://wa.me/" },
+    { "title": "Group 1 Discord", "link": "https://discord.com/" },
+    { "title": "Group 1 Facebook Group", "link": "https://facebook.com/" },
+    { "title": "Group 1 Study Forum", "link": "https://example.com/" },
+    { "title": "Mentor Support Group", "link": "https://example.com/" },
+    { "title": "Essay Discussion", "link": "https://example.com/" },
+    { "title": "Interview Preparation Group", "link": "https://example.com/" },
+    { "title": "Daily CA Discussion", "link": "https://example.com/" },
+    { "title": "Weekly Quiz Group", "link": "https://example.com/" },
+    { "title": "Strategy Group", "link": "https://example.com/" },
+    { "title": "Optional Subject Group", "link": "https://example.com/" },
+    { "title": "Motivation Group", "link": "https://example.com/" },
+    { "title": "Answer Writing Practice", "link": "https://example.com/" },
+    { "title": "Topper Interaction Group", "link": "https://example.com/" },
+    { "title": "Current Affairs Group", "link": "https://example.com/" },
+    { "title": "CSAT Discussion", "link": "https://example.com/" },
+    { "title": "Group 1 Updates Channel", "link": "https://example.com/" }
+
+  ],
+
+  "notifications": [
+
+    { "title": "Group 1 Notification 2026", "link": "https://tnpsc.gov.in/" },
+    { "title": "Group 1 Hall Ticket", "link": "https://tnpsc.gov.in/" },
+    { "title": "Group 1 Results", "link": "https://tnpsc.gov.in/" },
+    { "title": "Group 1 Exam Date", "link": "https://tnpsc.gov.in/" },
+    { "title": "Vacancy Details", "link": "https://tnpsc.gov.in/" },
+    { "title": "Interview Schedule", "link": "https://tnpsc.gov.in/" },
+    { "title": "Admit Card Download", "link": "https://tnpsc.gov.in/" },
+    { "title": "Cut Off Marks", "link": "https://tnpsc.gov.in/" },
+    { "title": "Answer Key", "link": "https://tnpsc.gov.in/" },
+    { "title": "Revaluation Notice", "link": "https://tnpsc.gov.in/" },
+    { "title": "Revised Syllabus", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Pattern Update", "link": "https://tnpsc.gov.in/" },
+    { "title": "Application Deadline", "link": "https://tnpsc.gov.in/" },
+    { "title": "Interview Call Letter", "link": "https://tnpsc.gov.in/" },
+    { "title": "Document Verification Notice", "link": "https://tnpsc.gov.in/" },
+    { "title": "Final Merit List", "link": "https://tnpsc.gov.in/" },
+    { "title": "Counselling Schedule", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Centers List", "link": "https://tnpsc.gov.in/" },
+    { "title": "Official Press Release", "link": "https://tnpsc.gov.in/" },
+    { "title": "Upcoming Recruitment", "link": "https://tnpsc.gov.in/" }
+
+  ]
+
+}

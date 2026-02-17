@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Easy Prep - TNPSC</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="header-left">
+    <h1>Easy Prep - TNPSC</h1>
+    <p>Preparing for: <span id="examName">Group 2</span></p>
+  </div>
+
+  <div class="header-right">
+    <i class="ri-user-line" onclick="goToProfile()"></i>
+    <i class="ri-logout-box-r-line" onclick="logout()"></i>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- WELCOME -->
+  <section class="welcome">
+    <h2>Welcome back, <span id="userName">Hari</span>!</h2>
+    <p>Continue your preparation journey</p>
+  </section>
+
+  <!-- STATS -->
+  <section class="stats">
+    <div class="stat">
+      <div class="stat-icon blue"><i class="ri-file-text-line"></i></div>
+      <h3 id="testsTaken">0</h3>
+      <span>Tests Taken</span>
+    </div>
+
+    <div class="stat">
+      <div class="stat-icon green"><i class="ri-award-line"></i></div>
+      <h3 id="bestScore">0%</h3>
+      <span>Best Score</span>
+    </div>
+
+    <div class="stat">
+      <div class="stat-icon purple"><i class="ri-focus-2-line"></i></div>
+      <h3 id="accuracy">0%</h3>
+      <span>Accuracy</span>
+    </div>
+
+    <div class="stat">
+      <div class="stat-icon orange"><i class="ri-line-chart-line"></i></div>
+      <h3 id="correctAnswers">0</h3>
+      <span>Correct Answers</span>
+    </div>
+  </section>
+
+  <!-- PROGRESS -->
+  <section class="progress-card">
+    <div class="progress-top">
+      <div>
+        <h3>Your Progress</h3>
+        <p>Keep going! Complete 10 tests to track your improvement</p>
+      </div>
+      <i class="ri-time-line"></i>
+    </div>
+
+    <div class="progress-bar">
+      <div id="progressFill"></div>
+    </div>
+
+    <span id="progressLabel">0 of 10 tests completed</span>
+  </section>
+
+  <!-- BIG ACTION CARDS -->
+  <section class="actions-large">
+    <div class="action large" onclick="goToTestSetup()">
+    <div class="icon-box blue">
+      <i class="ri-timer-line"></i>
+    </div>
+      <h4>Start Mock Test</h4>
+      <p>Timed MCQ practice tests</p>
+      <span>Choose duration and start practicing now!</span>
+    </div>
+
+    <div class="action large" onclick="goToMaterials()">
+    <div class="icon-box green">
+      <i class="ri-book-open-line"></i>
+    </div>
+      <h4>Study Materials</h4>
+      <p>Curated resources</p>
+      <span>Official syllabus, notes, and references</span>
+    </div>
+  </section>
+
+  <!-- SMALL ACTION CARDS -->
+  <section class="actions-small">
+    <div class="action" onclick="openExtras('videos')">
+        <div class="card-strip red">
+    <i class="ri-video-line"></i>
+  </div>
+      <h4>Tamil Videos</h4>
+      <p>Watch expert lectures in Tamil</p>
+    </div>
+
+    <div class="action" onclick="openExtras('community')">
+       <div class="card-strip purple">
+    <i class="ri-group-line"></i>
+  </div>
+      <h4>Community</h4>
+      <p>Join study groups and forums</p>
+    </div>
+
+    <div class="action" onclick="openExtras('news')">
+       <div class="card-strip orange">
+    <i class="ri-newspaper-line"></i>
+  </div>
+      <h4>Latest News</h4>
+      <p>TNPSC updates and notifications</p>
+    </div>
+  </section>
+
+</main>
+
+<script src="js/dashboard.js"></script>
+</body>
+</html>

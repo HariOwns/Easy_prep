@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Profile – Easy Prep</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/profile.css">
+</head>
+<body>
+
+<!-- TOP BAR -->
+<header class="profile-header">
+  <div class="header-left" onclick="goBack()">
+    <i class="ri-arrow-left-line"></i>
+    <div>
+      <h1>My Profile</h1>
+      <p>View your details and progress</p>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- USER CARD -->
+  <section class="card user-card">
+    <div class="user-top">
+      <div class="avatar">
+        <i class="ri-user-line"></i>
+      </div>
+
+      <div class="user-info">
+        <h2 id="userName">Hari g</h2>
+        <p id="userMobile">9789055142</p>
+        <span class="badge" id="userExam">Group 2</span>
+      </div>
+    </div>
+
+    <div class="user-bottom">
+      <div>
+        <label>Member Since</label>
+        <span id="memberSince">10 Feb 2026, 03:11 pm</span>
+      </div>
+
+      <div>
+        <label>Username</label>
+        <span id="username">9789055142</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- PERFORMANCE -->
+  <section class="card">
+    <h3>Performance Statistics</h3>
+
+    <div class="stats">
+      <div class="stat blue">
+        <i class="ri-line-chart-line"></i>
+        <h4 id="totalTests">0</h4>
+        <span>Total Tests</span>
+      </div>
+
+      <div class="stat green">
+        <i class="ri-award-line"></i>
+        <h4 id="bestScore">0%</h4>
+        <span>Best Score</span>
+      </div>
+
+      <div class="stat purple">
+        <i class="ri-time-line"></i>
+        <h4 id="average">0%</h4>
+        <span>Average</span>
+      </div>
+
+      <div class="stat orange">
+        <i class="ri-focus-3-line"></i>
+        <h4 id="accuracy">0%</h4>
+        <span>Accuracy</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- RECENT TESTS -->
+  <section class="card">
+    <h3>Recent Test Results</h3>
+    <p class="empty">No tests taken yet. Start practicing!</p>
+  </section>
+
+  <!-- LOGOUT -->
+  <button class="logout-btn" onclick="logout()">
+    <i class="ri-logout-box-r-line"></i> Logout
+  </button>
+
+</main>
+
+<script src="js/profile.js"></script>
+</body>
+</html>

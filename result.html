@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Test Result – Easy Prep</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/result.css">
+</head>
+<body>
+
+<main class="result-wrapper">
+
+  <!-- TOP BANNER -->
+  <section class="result-banner">
+    <i class="ri-refresh-line"></i>
+    <h2 id="resultMessage">Keep Practicing!</h2>
+    <p>Practice more to improve your score</p>
+  </section>
+
+  <!-- SCORE CARD -->
+  <section class="score-card">
+
+    <h1 id="scorePercent">0%</h1>
+    <p>Your Score</p>
+
+    <div class="progress-bar">
+      <div id="scoreProgress"></div>
+    </div>
+
+    <div class="score-stats">
+      <div class="stat correct">
+        <i class="ri-checkbox-circle-line"></i>
+        <h3 id="correctCount">0</h3>
+        <span>Correct</span>
+      </div>
+
+      <div class="stat incorrect">
+        <i class="ri-close-circle-line"></i>
+        <h3 id="incorrectCount">0</h3>
+        <span>Incorrect</span>
+      </div>
+
+      <div class="stat time">
+        <i class="ri-time-line"></i>
+        <h3 id="timeTaken">0m</h3>
+        <span>Time Taken</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ANSWER REVIEW -->
+  <section class="review-card">
+    <h3>Answer Review</h3>
+    <div id="reviewList" class="review-list"></div>
+  </section>
+
+  <!-- ACTION BUTTONS -->
+  <div class="result-actions">
+    <button class="btn primary" onclick="retakeTest()">
+      <i class="ri-refresh-line"></i> Take Another Test
+    </button>
+
+    <button class="btn" onclick="goDashboard()">
+      <i class="ri-home-line"></i> Go to Dashboard
+    </button>
+  </div>
+
+</main>
+
+<script src="js/result.js"></script>
+</body>
+</html>

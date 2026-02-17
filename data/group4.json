@@ -1,0 +1,1539 @@
+{
+  "group": "Group 4",
+
+  "questions": [
+
+    {
+      "id": 1,
+      "question": "Which is the capital of Tamil Nadu?",
+      "options": ["Madurai", "Chennai", "Salem", "Trichy"],
+      "correctIndex": 1,
+      "explanation": "Chennai is the capital of Tamil Nadu."
+    },
+    {
+      "id": 2,
+      "question": "Which is India's national animal?",
+      "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+      "correctIndex": 1,
+      "explanation": "Tiger is the national animal of India."
+    },
+    {
+      "id": 3,
+      "question": "Which year did India get independence?",
+      "options": ["1945", "1946", "1947", "1950"],
+      "correctIndex": 2,
+      "explanation": "India got independence in 1947."
+    },
+    {
+      "id": 4,
+      "question": "Which is the longest river in India?",
+      "options": ["Yamuna", "Ganga", "Krishna", "Godavari"],
+      "correctIndex": 1,
+      "explanation": "Ganga is the longest river in India."
+    },
+    {
+      "id": 5,
+      "question": "Which vitamin is produced by sunlight?",
+      "options": ["A", "B", "C", "D"],
+      "correctIndex": 3,
+      "explanation": "Vitamin D is produced by sunlight."
+    },
+	{
+	"id": 6,
+	"question": "Which is India's national flower?",
+	"options": ["Rose", "Lotus", "Lily", "Jasmine"],
+	"correctIndex": 1,
+	"explanation": "Lotus is national flower."
+	},
+	{
+	"id": 7,
+	"question": "Which is India's national bird?",
+	"options": ["Peacock", "Eagle", "Parrot", "Sparrow"],
+	"correctIndex": 0,
+	"explanation": "Peacock is national bird."
+	},
+	{
+	"id": 8,
+	"question": "Which day is Republic Day?",
+	"options": ["15 Aug", "26 Jan", "2 Oct", "14 Nov"],
+	"correctIndex": 1,
+	"explanation": "26 January is Republic Day."
+	},
+	{
+	"id": 9,
+	"question": "Which gas is needed for breathing?",
+	"options": ["Nitrogen", "Oxygen", "CO2", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "Oxygen is needed for breathing."
+	},
+	{
+	"id": 10,
+	"question": "Which is the smallest state in India?",
+	"options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+	"correctIndex": 0,
+	"explanation": "Goa is smallest state."
+	},
+	{
+	"id": 11,
+	"question": "Which Tamil Nadu festival is harvest festival?",
+	"options": ["Deepavali", "Pongal", "Navaratri", "Holi"],
+	"correctIndex": 1,
+	"explanation": "Pongal is harvest festival."
+	},
+	{
+	"id": 12,
+	"question": "Which is India's national fruit?",
+	"options": ["Banana", "Mango", "Apple", "Guava"],
+	"correctIndex": 1,
+	"explanation": "Mango is national fruit."
+	},
+	{
+	"id": 13,
+	"question": "Which organ purifies blood?",
+	"options": ["Heart", "Kidney", "Liver", "Lungs"],
+	"correctIndex": 1,
+	"explanation": "Kidney purifies blood."
+	},
+	{
+	"id": 14,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Tamil Nadu", "Kerala", "Punjab", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 15,
+	"question": "Which river flows through Madurai?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Krishna"],
+	"correctIndex": 0,
+	"explanation": "Vaigai flows through Madurai."
+	},
+	{
+	"id": 16,
+	"question": "Which is India's central bank?",
+	"options": ["SBI", "RBI", "SEBI", "NABARD"],
+	"correctIndex": 1,
+	"explanation": "RBI is central bank."
+	},
+	{
+	"id": 17,
+	"question": "Which day is Independence Day?",
+	"options": ["15 Aug", "26 Jan", "2 Oct", "5 Sept"],
+	"correctIndex": 0,
+	"explanation": "15 August is Independence Day."
+	},
+	{
+	"id": 18,
+	"question": "Which city is called Pink City?",
+	"options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+	"correctIndex": 0,
+	"explanation": "Jaipur is Pink City."
+	},
+	{
+	"id": 19,
+	"question": "Which is Tamil Nadu's state animal?",
+	"options": ["Tiger", "Elephant", "Nilgiri Tahr", "Lion"],
+	"correctIndex": 2,
+	"explanation": "Nilgiri Tahr is state animal."
+	},
+	{
+	"id": 20,
+	"question": "Which gas causes global warming?",
+	"options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "Carbon dioxide causes global warming."
+	},
+	{
+	"id": 21,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 22,
+	"question": "Which is India's national tree?",
+	"options": ["Neem", "Banyan", "Peepal", "Ashoka"],
+	"correctIndex": 1,
+	"explanation": "Banyan is national tree."
+	},
+	{
+	"id": 23,
+	"question": "Which is the largest continent?",
+	"options": ["Africa", "Asia", "Europe", "Australia"],
+	"correctIndex": 1,
+	"explanation": "Asia is largest continent."
+	},
+	{
+	"id": 24,
+	"question": "Which Indian mission landed on Moon south pole?",
+	"options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+	"correctIndex": 2,
+	"explanation": "Chandrayaan-3 landed successfully."
+	},
+	{
+	"id": 25,
+	"question": "Which vitamin prevents scurvy?",
+	"options": ["A", "B", "C", "D"],
+	"correctIndex": 2,
+	"explanation": "Vitamin C prevents scurvy."
+	},
+	{
+	"id": 26,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "MP", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is the largest state by area."
+	},
+	{
+	"id": 27,
+	"question": "Which is India's national river?",
+	"options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+	"correctIndex": 0,
+	"explanation": "Ganga is the national river of India."
+	},
+	{
+	"id": 28,
+	"question": "Which Indian city is called Silicon Valley of India?",
+	"options": ["Chennai", "Bangalore", "Hyderabad", "Pune"],
+	"correctIndex": 1,
+	"explanation": "Bangalore is called Silicon Valley of India."
+	},
+	{
+	"id": 29,
+	"question": "Which is the fastest land animal?",
+	"options": ["Lion", "Tiger", "Cheetah", "Leopard"],
+	"correctIndex": 2,
+	"explanation": "Cheetah is the fastest land animal."
+	},
+	{
+	"id": 30,
+	"question": "Which Tamil Nadu city is called Temple City?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is known as Temple City."
+	},
+
+	{
+	"id": 31,
+	"question": "Which day is celebrated as Teachers Day?",
+	"options": ["5 Sept", "14 Nov", "2 Oct", "26 Jan"],
+	"correctIndex": 0,
+	"explanation": "Teachers Day is celebrated on 5 September."
+	},
+	{
+	"id": 32,
+	"question": "Which Indian state is known as Land of Five Rivers?",
+	"options": ["Punjab", "Haryana", "UP", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Punjab is known as Land of Five Rivers."
+	},
+	{
+	"id": 33,
+	"question": "Which gas is most abundant in atmosphere?",
+	"options": ["Oxygen", "Nitrogen", "CO2", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "Nitrogen is most abundant gas in atmosphere."
+	},
+	{
+	"id": 34,
+	"question": "Which Indian city is capital of Maharashtra?",
+	"options": ["Pune", "Nagpur", "Mumbai", "Nashik"],
+	"correctIndex": 2,
+	"explanation": "Mumbai is capital of Maharashtra."
+	},
+	{
+	"id": 35,
+	"question": "Which Tamil Nadu district is famous for jasmine?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for jasmine."
+	},
+
+	{
+	"id": 36,
+	"question": "Which organ pumps blood in the human body?",
+	"options": ["Brain", "Lungs", "Heart", "Kidney"],
+	"correctIndex": 2,
+	"explanation": "Heart pumps blood in the body."
+	},
+	{
+	"id": 37,
+	"question": "Which Indian state produces highest wheat?",
+	"options": ["UP", "Punjab", "Haryana", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest wheat."
+	},
+	{
+	"id": 38,
+	"question": "Which Indian festival is known as Festival of Lights?",
+	"options": ["Pongal", "Holi", "Deepavali", "Navaratri"],
+	"correctIndex": 2,
+	"explanation": "Deepavali is Festival of Lights."
+	},
+	{
+	"id": 39,
+	"question": "Which Tamil Nadu river is longest?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery is longest river in Tamil Nadu."
+	},
+	{
+	"id": 40,
+	"question": "Which Indian state has highest population?",
+	"options": ["UP", "Bihar", "Maharashtra", "Tamil Nadu"],
+	"correctIndex": 0,
+	"explanation": "Uttar Pradesh has highest population."
+	},
+
+	{
+	"id": 41,
+	"question": "Which Indian mission was sent to Mars?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 1,
+	"explanation": "Mangalyaan was India's Mars mission."
+	},
+	{
+	"id": 42,
+	"question": "Which Tamil Nadu district is famous for textiles?",
+	"options": ["Coimbatore", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Coimbatore is famous for textiles."
+	},
+	{
+	"id": 43,
+	"question": "Which Indian day is celebrated on 2 October?",
+	"options": ["Independence Day", "Republic Day", "Gandhi Jayanti", "Teachers Day"],
+	"correctIndex": 2,
+	"explanation": "2 October is Gandhi Jayanti."
+	},
+	{
+	"id": 44,
+	"question": "Which is India's national song?",
+	"options": ["Vande Mataram", "Jana Gana Mana", "Saare Jahan Se Achha", "None"],
+	"correctIndex": 0,
+	"explanation": "Vande Mataram is national song."
+	},
+	{
+	"id": 45,
+	"question": "Which Tamil Nadu district is famous for Brihadeeswarar Temple?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Thanjavur is famous for Brihadeeswarar Temple."
+	},
+
+	{
+	"id": 46,
+	"question": "Which is India's national aquatic animal?",
+	"options": ["Dolphin", "Whale", "Shark", "Turtle"],
+	"correctIndex": 0,
+	"explanation": "Gangetic Dolphin is national aquatic animal."
+	},
+	{
+	"id": 47,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "TN", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+	{
+	"id": 48,
+	"question": "Which Tamil Nadu city is called Detroit of India?",
+	"options": ["Chennai", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Chennai is Detroit of India."
+	},
+	{
+	"id": 49,
+	"question": "Which Indian state has highest tea production?",
+	"options": ["Assam", "Kerala", "TN", "West Bengal"],
+	"correctIndex": 0,
+	"explanation": "Assam produces highest tea."
+	},
+	{
+	"id": 50,
+	"question": "Which Indian river is called Dakshina Ganga?",
+	"options": ["Krishna", "Godavari", "Cauvery", "Vaigai"],
+	"correctIndex": 2,
+	"explanation": "Cauvery is called Dakshina Ganga."
+	},
+	{
+	"id": 51,
+	"question": "Which is India's national emblem?",
+	"options": ["Ashoka Pillar", "Lotus", "Lion", "Peacock"],
+	"correctIndex": 0,
+	"explanation": "Ashoka Pillar is national emblem of India."
+	},
+	{
+	"id": 52,
+	"question": "Which Indian state has longest coastline?",
+	"options": ["Tamil Nadu", "Gujarat", "Kerala", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Gujarat has longest coastline."
+	},
+	{
+	"id": 53,
+	"question": "Which is Tamil Nadu's state bird?",
+	"options": ["Peacock", "Emerald Dove", "Parrot", "Eagle"],
+	"correctIndex": 1,
+	"explanation": "Emerald Dove is state bird."
+	},
+	{
+	"id": 54,
+	"question": "Which Indian day is celebrated on 26 January?",
+	"options": ["Independence Day", "Republic Day", "Gandhi Jayanti", "Children's Day"],
+	"correctIndex": 1,
+	"explanation": "26 January is Republic Day."
+	},
+	{
+	"id": 55,
+	"question": "Which vitamin deficiency causes night blindness?",
+	"options": ["A", "B", "C", "D"],
+	"correctIndex": 0,
+	"explanation": "Vitamin A deficiency causes night blindness."
+	},
+
+	{
+	"id": 56,
+	"question": "Which Tamil Nadu district has Nilgiri hills?",
+	"options": ["Nilgiris", "Coimbatore", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Nilgiris district has Nilgiri hills."
+	},
+	{
+	"id": 57,
+	"question": "Which Indian state produces highest cotton?",
+	"options": ["Punjab", "Gujarat", "Tamil Nadu", "UP"],
+	"correctIndex": 1,
+	"explanation": "Gujarat produces highest cotton."
+	},
+	{
+	"id": 58,
+	"question": "Which organ controls the human body?",
+	"options": ["Heart", "Brain", "Liver", "Kidney"],
+	"correctIndex": 1,
+	"explanation": "Brain controls human body."
+	},
+	{
+	"id": 59,
+	"question": "Which Indian mission studies the Sun?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 2,
+	"explanation": "Aditya L1 studies the Sun."
+	},
+	{
+	"id": 60,
+	"question": "Which Tamil Nadu river flows through Trichy?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery flows through Trichy."
+	},
+
+	{
+	"id": 61,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 62,
+	"question": "Which Indian city is capital of Karnataka?",
+	"options": ["Mysore", "Bangalore", "Hubli", "Mangalore"],
+	"correctIndex": 1,
+	"explanation": "Bangalore is capital of Karnataka."
+	},
+	{
+	"id": 63,
+	"question": "Which Indian state shares border with maximum states?",
+	"options": ["UP", "MP", "Rajasthan", "Maharashtra"],
+	"correctIndex": 0,
+	"explanation": "UP shares border with most states."
+	},
+	{
+	"id": 64,
+	"question": "Which Tamil Nadu festival is celebrated in January?",
+	"options": ["Deepavali", "Pongal", "Navaratri", "Holi"],
+	"correctIndex": 1,
+	"explanation": "Pongal is celebrated in January."
+	},
+	{
+	"id": 65,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+
+	{
+	"id": 66,
+	"question": "Which gas is used in fire extinguishers?",
+	"options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "CO2 is used in fire extinguishers."
+	},
+	{
+	"id": 67,
+	"question": "Which Tamil Nadu district is famous for fireworks?",
+	"options": ["Madurai", "Sivakasi", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Sivakasi is famous for fireworks."
+	},
+	{
+	"id": 68,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "Tamil Nadu", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+	{
+	"id": 69,
+	"question": "Which Indian river originates from Gangotri glacier?",
+	"options": ["Yamuna", "Ganga", "Godavari", "Krishna"],
+	"correctIndex": 1,
+	"explanation": "Ganga originates from Gangotri glacier."
+	},
+	{
+	"id": 70,
+	"question": "Which Tamil Nadu city is known for Meenakshi Temple?",
+	"options": ["Madurai", "Salem", "Trichy", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for Meenakshi Temple."
+	},
+
+	{
+	"id": 71,
+	"question": "Which Indian state produces highest wheat?",
+	"options": ["UP", "Punjab", "Haryana", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest wheat."
+	},
+	{
+	"id": 72,
+	"question": "Which Indian city is called Garden City?",
+	"options": ["Chennai", "Bangalore", "Hyderabad", "Delhi"],
+	"correctIndex": 1,
+	"explanation": "Bangalore is Garden City."
+	},
+	{
+	"id": 73,
+	"question": "Which Tamil Nadu district is famous for textiles?",
+	"options": ["Coimbatore", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Coimbatore is textile hub."
+	},
+	{
+	"id": 74,
+	"question": "Which Indian state is largest by population?",
+	"options": ["UP", "Bihar", "Maharashtra", "Tamil Nadu"],
+	"correctIndex": 0,
+	"explanation": "UP has highest population."
+	},
+	{
+	"id": 75,
+	"question": "Which Indian mission was sent to Mars?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 1,
+	"explanation": "Mangalyaan was Mars mission."
+	},
+
+	{
+	"id": 76,
+	"question": "Which Tamil Nadu district is famous for temples of Cholas?",
+	"options": ["Thanjavur", "Madurai", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Thanjavur has Chola temples."
+	},
+	{
+	"id": 77,
+	"question": "Which Indian state produces highest tea?",
+	"options": ["Assam", "Kerala", "Tamil Nadu", "West Bengal"],
+	"correctIndex": 0,
+	"explanation": "Assam produces highest tea."
+	},
+	{
+	"id": 78,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "MP", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest by area."
+	},
+	{
+	"id": 79,
+	"question": "Which Tamil Nadu river is longest?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery is longest river."
+	},
+	{
+	"id": 80,
+	"question": "Which Indian day is celebrated on 2 October?",
+	"options": ["Independence Day", "Republic Day", "Gandhi Jayanti", "Children's Day"],
+	"correctIndex": 2,
+	"explanation": "2 October is Gandhi Jayanti."
+	},
+
+	{
+	"id": 81,
+	"question": "Which Indian state is known as Land of Five Rivers?",
+	"options": ["Punjab", "Haryana", "UP", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Punjab is Land of Five Rivers."
+	},
+	{
+	"id": 82,
+	"question": "Which Indian city is capital of Gujarat?",
+	"options": ["Ahmedabad", "Surat", "Gandhinagar", "Rajkot"],
+	"correctIndex": 2,
+	"explanation": "Gandhinagar is capital of Gujarat."
+	},
+	{
+	"id": 83,
+	"question": "Which Tamil Nadu city is called Detroit of India?",
+	"options": ["Chennai", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Chennai is Detroit of India."
+	},
+	{
+	"id": 84,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 85,
+	"question": "Which Indian river is called Dakshina Ganga?",
+	"options": ["Krishna", "Godavari", "Cauvery", "Vaigai"],
+	"correctIndex": 2,
+	"explanation": "Cauvery is Dakshina Ganga."
+	},
+
+	{
+	"id": 86,
+	"question": "Which Tamil Nadu district is famous for Kallanai Dam?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Kallanai is in Thanjavur."
+	},
+	{
+	"id": 87,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 88,
+	"question": "Which Indian mission landed on Moon south pole?",
+	"options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+	"correctIndex": 2,
+	"explanation": "Chandrayaan-3 landed successfully."
+	},
+	{
+	"id": 89,
+	"question": "Which Tamil Nadu festival is harvest festival?",
+	"options": ["Deepavali", "Pongal", "Navaratri", "Holi"],
+	"correctIndex": 1,
+	"explanation": "Pongal is harvest festival."
+	},
+	{
+	"id": 90,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "Tamil Nadu", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+
+	{
+	"id": 91,
+	"question": "Which Indian city is capital of Tamil Nadu?",
+	"options": ["Madurai", "Chennai", "Salem", "Trichy"],
+	"correctIndex": 1,
+	"explanation": "Chennai is capital."
+	},
+	{
+	"id": 92,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "MP", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest."
+	},
+	{
+	"id": 93,
+	"question": "Which Tamil Nadu district is famous for jasmine?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for jasmine."
+	},
+	{
+	"id": 94,
+	"question": "Which Indian state produces highest tea?",
+	"options": ["Assam", "Kerala", "Tamil Nadu", "West Bengal"],
+	"correctIndex": 0,
+	"explanation": "Assam produces highest tea."
+	},
+	{
+	"id": 95,
+	"question": "Which Indian day is celebrated on 15 August?",
+	"options": ["Independence Day", "Republic Day", "Gandhi Jayanti", "Teachers Day"],
+	"correctIndex": 0,
+	"explanation": "15 August is Independence Day."
+	},
+	{
+	"id": 96,
+	"question": "Which Tamil Nadu river flows through Madurai?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 0,
+	"explanation": "Vaigai flows through Madurai."
+	},
+	{
+	"id": 97,
+	"question": "Which Indian state shares border with maximum states?",
+	"options": ["UP", "MP", "Rajasthan", "Maharashtra"],
+	"correctIndex": 0,
+	"explanation": "UP shares border with most states."
+	},
+	{
+	"id": 98,
+	"question": "Which Tamil Nadu district is famous for textiles?",
+	"options": ["Coimbatore", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Coimbatore is textile hub."
+	},
+	{
+	"id": 99,
+	"question": "Which Indian mission studies the Sun?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 2,
+	"explanation": "Aditya L1 studies Sun."
+	},
+	{
+	"id": 100,
+	"question": "Which Indian state produces highest wheat?",
+	"options": ["UP", "Punjab", "Haryana", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest wheat."
+	},
+	{
+	"id": 101,
+	"question": "Which is India's national game (traditionally)?",
+	"options": ["Cricket", "Hockey", "Football", "Kabaddi"],
+	"correctIndex": 1,
+	"explanation": "Hockey is traditionally considered national game."
+	},
+	{
+	"id": 102,
+	"question": "Which Tamil Nadu district is famous for waterfalls in Courtallam?",
+	"options": ["Tirunelveli", "Salem", "Madurai", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Courtallam waterfalls are in Tirunelveli district."
+	},
+	{
+	"id": 103,
+	"question": "Which Indian state produces highest milk?",
+	"options": ["UP", "Gujarat", "Punjab", "Rajasthan"],
+	"correctIndex": 0,
+	"explanation": "Uttar Pradesh produces highest milk."
+	},
+	{
+	"id": 104,
+	"question": "Which Indian city is called City of Joy?",
+	"options": ["Delhi", "Kolkata", "Mumbai", "Chennai"],
+	"correctIndex": 1,
+	"explanation": "Kolkata is called City of Joy."
+	},
+	{
+	"id": 105,
+	"question": "Which Tamil Nadu district is famous for temples of Cholas?",
+	"options": ["Thanjavur", "Madurai", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Thanjavur is famous for Chola temples."
+	},
+
+	{
+	"id": 106,
+	"question": "Which Indian state is largest by population?",
+	"options": ["UP", "Bihar", "Maharashtra", "Tamil Nadu"],
+	"correctIndex": 0,
+	"explanation": "UP has highest population."
+	},
+	{
+	"id": 107,
+	"question": "Which Tamil Nadu city is known as Manchester of South India?",
+	"options": ["Madurai", "Coimbatore", "Salem", "Trichy"],
+	"correctIndex": 1,
+	"explanation": "Coimbatore is Manchester of South India."
+	},
+	{
+	"id": 108,
+	"question": "Which Indian state produces highest coffee?",
+	"options": ["Kerala", "Karnataka", "Tamil Nadu", "Assam"],
+	"correctIndex": 1,
+	"explanation": "Karnataka produces highest coffee."
+	},
+	{
+	"id": 109,
+	"question": "Which Indian river is called Sorrow of Bihar?",
+	"options": ["Ganga", "Kosi", "Yamuna", "Godavari"],
+	"correctIndex": 1,
+	"explanation": "Kosi is called Sorrow of Bihar."
+	},
+	{
+	"id": 110,
+	"question": "Which Tamil Nadu district is famous for marble rocks in Hogenakkal?",
+	"options": ["Salem", "Dharmapuri", "Erode", "Karur"],
+	"correctIndex": 1,
+	"explanation": "Hogenakkal is in Dharmapuri district."
+	},
+
+	{
+	"id": 111,
+	"question": "Which Indian state produces highest cotton?",
+	"options": ["Punjab", "Gujarat", "Tamil Nadu", "UP"],
+	"correctIndex": 1,
+	"explanation": "Gujarat produces highest cotton."
+	},
+	{
+	"id": 112,
+	"question": "Which Indian mission is related to Moon?",
+	"options": ["Mangalyaan", "Chandrayaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 1,
+	"explanation": "Chandrayaan missions are related to Moon."
+	},
+	{
+	"id": 113,
+	"question": "Which Tamil Nadu river flows through Erode?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery flows through Erode."
+	},
+	{
+	"id": 114,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 115,
+	"question": "Which Indian city is capital of West Bengal?",
+	"options": ["Darjeeling", "Kolkata", "Siliguri", "Howrah"],
+	"correctIndex": 1,
+	"explanation": "Kolkata is capital of West Bengal."
+	},
+
+	{
+	"id": 116,
+	"question": "Which Tamil Nadu district is famous for jasmine?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for jasmine."
+	},
+	{
+	"id": 117,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "Tamil Nadu", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+	{
+	"id": 118,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "MP", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest by area."
+	},
+	{
+	"id": 119,
+	"question": "Which Tamil Nadu district is famous for Brihadeeswarar Temple?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Thanjavur has Brihadeeswarar Temple."
+	},
+	{
+	"id": 120,
+	"question": "Which Indian mission studies the Sun?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 2,
+	"explanation": "Aditya L1 studies Sun."
+	},
+
+	{
+	"id": 121,
+	"question": "Which Indian city is called Financial Capital of India?",
+	"options": ["Delhi", "Mumbai", "Chennai", "Bangalore"],
+	"correctIndex": 1,
+	"explanation": "Mumbai is Financial Capital."
+	},
+	{
+	"id": 122,
+	"question": "Which Tamil Nadu district is famous for Kallanai Dam?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Kallanai is in Thanjavur."
+	},
+	{
+	"id": 123,
+	"question": "Which Indian state produces highest tea?",
+	"options": ["Assam", "Kerala", "Tamil Nadu", "West Bengal"],
+	"correctIndex": 0,
+	"explanation": "Assam produces highest tea."
+	},
+	{
+	"id": 124,
+	"question": "Which Indian state shares longest coastline?",
+	"options": ["Tamil Nadu", "Gujarat", "Kerala", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Gujarat has longest coastline."
+	},
+	{
+	"id": 125,
+	"question": "Which Tamil Nadu city is called Temple City?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is Temple City."
+	},
+
+	{
+	"id": 126,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 127,
+	"question": "Which Indian state has highest population?",
+	"options": ["UP", "Bihar", "Maharashtra", "Tamil Nadu"],
+	"correctIndex": 0,
+	"explanation": "UP has highest population."
+	},
+	{
+	"id": 128,
+	"question": "Which Tamil Nadu district is famous for textiles?",
+	"options": ["Coimbatore", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Coimbatore is textile hub."
+	},
+	{
+	"id": 129,
+	"question": "Which Indian mission was sent to Mars?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 1,
+	"explanation": "Mangalyaan was Mars mission."
+	},
+	{
+	"id": 130,
+	"question": "Which Indian river originates from Gangotri glacier?",
+	"options": ["Yamuna", "Ganga", "Godavari", "Krishna"],
+	"correctIndex": 1,
+	"explanation": "Ganga originates from Gangotri glacier."
+	},
+
+	{
+	"id": 131,
+	"question": "Which Indian state produces highest wheat?",
+	"options": ["UP", "Punjab", "Haryana", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest wheat."
+	},
+	{
+	"id": 132,
+	"question": "Which Tamil Nadu festival is harvest festival?",
+	"options": ["Deepavali", "Pongal", "Navaratri", "Holi"],
+	"correctIndex": 1,
+	"explanation": "Pongal is harvest festival."
+	},
+	{
+	"id": 133,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "MP", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest by area."
+	},
+	{
+	"id": 134,
+	"question": "Which Tamil Nadu district has Nilgiri hills?",
+	"options": ["Nilgiris", "Coimbatore", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Nilgiris district has Nilgiri hills."
+	},
+	{
+	"id": 135,
+	"question": "Which Indian city is called Pink City?",
+	"options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+	"correctIndex": 0,
+	"explanation": "Jaipur is Pink City."
+	},
+
+	{
+	"id": 136,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "Tamil Nadu", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+	{
+	"id": 137,
+	"question": "Which Tamil Nadu district is famous for fireworks?",
+	"options": ["Madurai", "Sivakasi", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Sivakasi is famous for fireworks."
+	},
+	{
+	"id": 138,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 139,
+	"question": "Which Indian mission landed on Moon south pole?",
+	"options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+	"correctIndex": 2,
+	"explanation": "Chandrayaan-3 landed successfully."
+	},
+	{
+	"id": 140,
+	"question": "Which Tamil Nadu city is known for Meenakshi Temple?",
+	"options": ["Madurai", "Salem", "Trichy", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for Meenakshi Temple."
+	},
+
+	{
+	"id": 141,
+	"question": "Which Indian state produces highest tea?",
+	"options": ["Assam", "Kerala", "Tamil Nadu", "West Bengal"],
+	"correctIndex": 0,
+	"explanation": "Assam produces highest tea."
+	},
+	{
+	"id": 142,
+	"question": "Which Indian river is called Dakshina Ganga?",
+	"options": ["Krishna", "Godavari", "Cauvery", "Vaigai"],
+	"correctIndex": 2,
+	"explanation": "Cauvery is Dakshina Ganga."
+	},
+	{
+	"id": 143,
+	"question": "Which Tamil Nadu district is famous for temples of Cholas?",
+	"options": ["Thanjavur", "Madurai", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Thanjavur is famous for Chola temples."
+	},
+	{
+	"id": 144,
+	"question": "Which Indian state shares border with maximum states?",
+	"options": ["UP", "MP", "Rajasthan", "Maharashtra"],
+	"correctIndex": 0,
+	"explanation": "UP shares border with most states."
+	},
+	{
+	"id": 145,
+	"question": "Which Tamil Nadu river flows through Madurai?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 0,
+	"explanation": "Vaigai flows through Madurai."
+	},
+
+	{
+	"id": 146,
+	"question": "Which Indian state produces highest cotton?",
+	"options": ["Punjab", "Gujarat", "Tamil Nadu", "UP"],
+	"correctIndex": 1,
+	"explanation": "Gujarat produces highest cotton."
+	},
+	{
+	"id": 147,
+	"question": "Which Tamil Nadu city is called Detroit of India?",
+	"options": ["Chennai", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Chennai is Detroit of India."
+	},
+	{
+	"id": 148,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 149,
+	"question": "Which Indian state has highest population?",
+	"options": ["UP", "Bihar", "Maharashtra", "Tamil Nadu"],
+	"correctIndex": 0,
+	"explanation": "UP has highest population."
+	},
+	{
+	"id": 150,
+	"question": "Which Tamil Nadu district is famous for Brihadeeswarar Temple?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Thanjavur has Brihadeeswarar Temple."
+	},
+	{
+	"id": 151,
+	"question": "Which is India's national flower?",
+	"options": ["Rose", "Lotus", "Lily", "Jasmine"],
+	"correctIndex": 1,
+	"explanation": "Lotus is the national flower of India."
+	},
+	{
+	"id": 152,
+	"question": "Which Tamil Nadu festival is celebrated in January?",
+	"options": ["Deepavali", "Pongal", "Navaratri", "Holi"],
+	"correctIndex": 1,
+	"explanation": "Pongal is celebrated in January."
+	},
+	{
+	"id": 153,
+	"question": "Which Indian state produces highest milk?",
+	"options": ["UP", "Gujarat", "Punjab", "Rajasthan"],
+	"correctIndex": 0,
+	"explanation": "Uttar Pradesh produces highest milk."
+	},
+	{
+	"id": 154,
+	"question": "Which Indian city is capital of Tamil Nadu?",
+	"options": ["Madurai", "Chennai", "Salem", "Trichy"],
+	"correctIndex": 1,
+	"explanation": "Chennai is capital of Tamil Nadu."
+	},
+	{
+	"id": 155,
+	"question": "Which Tamil Nadu river is longest?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery is longest river in Tamil Nadu."
+	},
+
+	{
+	"id": 156,
+	"question": "Which Indian state produces highest wheat?",
+	"options": ["UP", "Punjab", "Haryana", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest wheat."
+	},
+	{
+	"id": 157,
+	"question": "Which Tamil Nadu district has Nilgiri hills?",
+	"options": ["Nilgiris", "Coimbatore", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Nilgiris district has Nilgiri hills."
+	},
+	{
+	"id": 158,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 159,
+	"question": "Which Indian mission studies the Sun?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 2,
+	"explanation": "Aditya L1 studies the Sun."
+	},
+	{
+	"id": 160,
+	"question": "Which Tamil Nadu city is known for Meenakshi Temple?",
+	"options": ["Madurai", "Salem", "Trichy", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for Meenakshi Temple."
+	},
+
+	{
+	"id": 161,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 162,
+	"question": "Which Indian city is called Financial Capital of India?",
+	"options": ["Delhi", "Mumbai", "Chennai", "Bangalore"],
+	"correctIndex": 1,
+	"explanation": "Mumbai is Financial Capital."
+	},
+	{
+	"id": 163,
+	"question": "Which Tamil Nadu district is famous for fireworks?",
+	"options": ["Madurai", "Sivakasi", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Sivakasi is famous for fireworks."
+	},
+	{
+	"id": 164,
+	"question": "Which Indian river is called Dakshina Ganga?",
+	"options": ["Krishna", "Godavari", "Cauvery", "Vaigai"],
+	"correctIndex": 2,
+	"explanation": "Cauvery is called Dakshina Ganga."
+	},
+	{
+	"id": 165,
+	"question": "Which Tamil Nadu district is famous for Brihadeeswarar Temple?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Thanjavur has Brihadeeswarar Temple."
+	},
+
+	{
+	"id": 166,
+	"question": "Which Indian state produces highest tea?",
+	"options": ["Assam", "Kerala", "Tamil Nadu", "West Bengal"],
+	"correctIndex": 0,
+	"explanation": "Assam produces highest tea."
+	},
+	{
+	"id": 167,
+	"question": "Which Indian state is largest by population?",
+	"options": ["UP", "Bihar", "Maharashtra", "Tamil Nadu"],
+	"correctIndex": 0,
+	"explanation": "UP has highest population."
+	},
+	{
+	"id": 168,
+	"question": "Which Tamil Nadu city is called Detroit of India?",
+	"options": ["Chennai", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Chennai is Detroit of India."
+	},
+	{
+	"id": 169,
+	"question": "Which Indian state shares border with maximum states?",
+	"options": ["UP", "MP", "Rajasthan", "Maharashtra"],
+	"correctIndex": 0,
+	"explanation": "UP shares border with most states."
+	},
+	{
+	"id": 170,
+	"question": "Which Tamil Nadu festival is harvest festival?",
+	"options": ["Deepavali", "Pongal", "Navaratri", "Holi"],
+	"correctIndex": 1,
+	"explanation": "Pongal is harvest festival."
+	},
+
+	{
+	"id": 171,
+	"question": "Which Indian state produces highest cotton?",
+	"options": ["Punjab", "Gujarat", "Tamil Nadu", "UP"],
+	"correctIndex": 1,
+	"explanation": "Gujarat produces highest cotton."
+	},
+	{
+	"id": 172,
+	"question": "Which Tamil Nadu district is famous for jasmine?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for jasmine."
+	},
+	{
+	"id": 173,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "Tamil Nadu", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+	{
+	"id": 174,
+	"question": "Which Indian mission landed on Moon south pole?",
+	"options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+	"correctIndex": 2,
+	"explanation": "Chandrayaan-3 landed successfully."
+	},
+	{
+	"id": 175,
+	"question": "Which Tamil Nadu river flows through Trichy?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery flows through Trichy."
+	},
+
+	{
+	"id": 176,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "MP", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest by area."
+	},
+	{
+	"id": 177,
+	"question": "Which Tamil Nadu district is famous for temples of Cholas?",
+	"options": ["Thanjavur", "Madurai", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Thanjavur has Chola temples."
+	},
+	{
+	"id": 178,
+	"question": "Which Indian river originates from Gangotri glacier?",
+	"options": ["Yamuna", "Ganga", "Godavari", "Krishna"],
+	"correctIndex": 1,
+	"explanation": "Ganga originates from Gangotri glacier."
+	},
+	{
+	"id": 179,
+	"question": "Which Tamil Nadu district is famous for textiles?",
+	"options": ["Coimbatore", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Coimbatore is textile hub."
+	},
+	{
+	"id": 180,
+	"question": "Which Indian state produces highest wheat?",
+	"options": ["UP", "Punjab", "Haryana", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest wheat."
+	},
+
+	{
+	"id": 181,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 182,
+	"question": "Which Tamil Nadu city is called Temple City?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is Temple City."
+	},
+	{
+	"id": 183,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 184,
+	"question": "Which Indian mission was sent to Mars?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 1,
+	"explanation": "Mangalyaan was Mars mission."
+	},
+	{
+	"id": 185,
+	"question": "Which Tamil Nadu district has Nilgiri hills?",
+	"options": ["Nilgiris", "Coimbatore", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Nilgiris district has Nilgiri hills."
+	},
+
+	{
+	"id": 186,
+	"question": "Which Indian city is called Pink City?",
+	"options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+	"correctIndex": 0,
+	"explanation": "Jaipur is Pink City."
+	},
+	{
+	"id": 187,
+	"question": "Which Tamil Nadu district is famous for Kallanai Dam?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Kallanai is in Thanjavur."
+	},
+	{
+	"id": 188,
+	"question": "Which Indian state produces highest tea?",
+	"options": ["Assam", "Kerala", "Tamil Nadu", "West Bengal"],
+	"correctIndex": 0,
+	"explanation": "Assam produces highest tea."
+	},
+	{
+	"id": 189,
+	"question": "Which Indian state shares longest coastline?",
+	"options": ["Tamil Nadu", "Gujarat", "Kerala", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Gujarat has longest coastline."
+	},
+	{
+	"id": 190,
+	"question": "Which Tamil Nadu city is known for textiles?",
+	"options": ["Coimbatore", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Coimbatore is textile hub."
+	},
+
+	{
+	"id": 191,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "Tamil Nadu", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+	{
+	"id": 192,
+	"question": "Which Tamil Nadu river flows through Madurai?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 0,
+	"explanation": "Vaigai flows through Madurai."
+	},
+	{
+	"id": 193,
+	"question": "Which Indian state produces highest wheat?",
+	"options": ["UP", "Punjab", "Haryana", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest wheat."
+	},
+	{
+	"id": 194,
+	"question": "Which Tamil Nadu district is famous for fireworks?",
+	"options": ["Madurai", "Sivakasi", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Sivakasi is famous for fireworks."
+	},
+	{
+	"id": 195,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+
+	{
+	"id": 196,
+	"question": "Which Tamil Nadu city is capital of Tamil Nadu?",
+	"options": ["Madurai", "Chennai", "Salem", "Trichy"],
+	"correctIndex": 1,
+	"explanation": "Chennai is capital."
+	},
+	{
+	"id": 197,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 198,
+	"question": "Which Tamil Nadu district is famous for jasmine?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for jasmine."
+	},
+	{
+	"id": 199,
+	"question": "Which Indian mission studies the Sun?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 2,
+	"explanation": "Aditya L1 studies Sun."
+	},
+	{
+	"id": 200,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "MP", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest by area."
+	}
+
+  ],
+
+  "materials": [
+
+    { "title": "Group 4 Official Syllabus", "desc": "TNPSC Group 4 syllabus PDF", "link": "https://tnpsc.gov.in" },
+    { "title": "General Studies Notes", "desc": "Basic GS notes for Group 4", "link": "https://example.com/gs" },
+    { "title": "Tamil Nadu History Notes", "desc": "TN history simplified", "link": "https://example.com/tnhistory" },
+    { "title": "Indian Polity Basics", "desc": "Constitution basics", "link": "https://example.com/polity" },
+    { "title": "Indian Geography Notes", "desc": "Geography basics", "link": "https://example.com/geography" },
+    { "title": "General Science Notes", "desc": "Physics, Chemistry, Biology basics", "link": "https://example.com/science" },
+    { "title": "Current Affairs PDF", "desc": "Monthly CA", "link": "https://example.com/ca" },
+    { "title": "Aptitude Practice", "desc": "Maths & reasoning", "link": "https://example.com/aptitude" },
+    { "title": "Previous Year Questions", "desc": "Group 4 PYQ", "link": "https://example.com/pyq" },
+    { "title": "Indian Economy Basics", "desc": "Economy simplified", "link": "https://example.com/economy" },
+    { "title": "Environmental Studies", "desc": "Environment basics", "link": "https://example.com/env" },
+    { "title": "Freedom Movement Notes", "desc": "Indian freedom struggle", "link": "https://example.com/history" },
+    { "title": "Government Schemes", "desc": "Important schemes", "link": "https://example.com/schemes" },
+    { "title": "Indian Constitution Summary", "desc": "Quick revision notes", "link": "https://example.com/constitution" },
+    { "title": "Mock Test Papers", "desc": "Practice tests", "link": "https://example.com/mock" },
+    { "title": "Tamil Grammar Notes", "desc": "Language section", "link": "https://example.com/tamil" },
+    { "title": "Budget Summary", "desc": "Important highlights", "link": "https://example.com/budget" },
+    { "title": "Disaster Management", "desc": "Basic topics", "link": "https://example.com/disaster" },
+    { "title": "Indian Agriculture Notes", "desc": "Agriculture basics", "link": "https://example.com/agriculture" },
+    { "title": "Exam Preparation Guide", "desc": "Strategy & preparation", "link": "https://example.com/guide" }
+
+  ],
+
+  "videos": [
+
+    { "title": "Group 4 Polity Tamil", "link": "https://youtube.com/" },
+    { "title": "Group 4 Economy Tamil", "link": "https://youtube.com/" },
+    { "title": "TN History Tamil", "link": "https://youtube.com/" },
+    { "title": "General Science Tamil", "link": "https://youtube.com/" },
+    { "title": "Current Affairs Tamil", "link": "https://youtube.com/" },
+    { "title": "Aptitude Tamil", "link": "https://youtube.com/" },
+    { "title": "Indian Geography Tamil", "link": "https://youtube.com/" },
+    { "title": "Constitution Tamil", "link": "https://youtube.com/" },
+    { "title": "Freedom Movement Tamil", "link": "https://youtube.com/" },
+    { "title": "Environment Tamil", "link": "https://youtube.com/" },
+    { "title": "Government Schemes Tamil", "link": "https://youtube.com/" },
+    { "title": "Budget Tamil", "link": "https://youtube.com/" },
+    { "title": "Disaster Management Tamil", "link": "https://youtube.com/" },
+    { "title": "Tamil Grammar Tamil", "link": "https://youtube.com/" },
+    { "title": "Group 4 Strategy Tamil", "link": "https://youtube.com/" },
+    { "title": "Mock Test Discussion Tamil", "link": "https://youtube.com/" },
+    { "title": "Important Acts Tamil", "link": "https://youtube.com/" },
+    { "title": "Daily CA Tamil", "link": "https://youtube.com/" },
+    { "title": "GS Revision Tamil", "link": "https://youtube.com/" },
+    { "title": "Full Course Group 4 Tamil", "link": "https://youtube.com/" }
+
+  ],
+
+  "community": [
+
+    { "title": "Group 4 Telegram Main", "link": "https://t.me/" },
+    { "title": "Group 4 Telegram Doubts", "link": "https://t.me/" },
+    { "title": "Group 4 WhatsApp 1", "link": "https://wa.me/" },
+    { "title": "Group 4 WhatsApp 2", "link": "https://wa.me/" },
+    { "title": "Group 4 Discord", "link": "https://discord.com/" },
+    { "title": "Group 4 Facebook Group", "link": "https://facebook.com/" },
+    { "title": "Daily Quiz Group", "link": "https://example.com/" },
+    { "title": "Mentor Support Group", "link": "https://example.com/" },
+    { "title": "Answer Practice Group", "link": "https://example.com/" },
+    { "title": "Weekly CA Discussion", "link": "https://example.com/" },
+    { "title": "Strategy Group", "link": "https://example.com/" },
+    { "title": "Polity Discussion", "link": "https://example.com/" },
+    { "title": "Economy Discussion", "link": "https://example.com/" },
+    { "title": "History Discussion", "link": "https://example.com/" },
+    { "title": "Science Discussion", "link": "https://example.com/" },
+    { "title": "Aptitude Discussion", "link": "https://example.com/" },
+    { "title": "Motivation Group", "link": "https://example.com/" },
+    { "title": "Topper Interaction", "link": "https://example.com/" },
+    { "title": "Group 4 Updates Channel", "link": "https://example.com/" },
+    { "title": "Exam Alert Group", "link": "https://example.com/" }
+
+  ],
+
+  "notifications": [
+
+    { "title": "Group 4 Notification 2026", "link": "https://tnpsc.gov.in/" },
+    { "title": "Hall Ticket Download", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Date Update", "link": "https://tnpsc.gov.in/" },
+    { "title": "Vacancy Details", "link": "https://tnpsc.gov.in/" },
+    { "title": "Answer Key", "link": "https://tnpsc.gov.in/" },
+    { "title": "Cut Off Marks", "link": "https://tnpsc.gov.in/" },
+    { "title": "Result Announcement", "link": "https://tnpsc.gov.in/" },
+    { "title": "Document Verification", "link": "https://tnpsc.gov.in/" },
+    { "title": "Application Deadline", "link": "https://tnpsc.gov.in/" },
+    { "title": "Revised Syllabus", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Pattern Update", "link": "https://tnpsc.gov.in/" },
+    { "title": "Important Instructions", "link": "https://tnpsc.gov.in/" },
+    { "title": "Admit Card Release", "link": "https://tnpsc.gov.in/" },
+    { "title": "Interview Schedule", "link": "https://tnpsc.gov.in/" },
+    { "title": "Final Merit List", "link": "https://tnpsc.gov.in/" },
+    { "title": "Counselling Notice", "link": "https://tnpsc.gov.in/" },
+    { "title": "Press Release", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Centers List", "link": "https://tnpsc.gov.in/" },
+    { "title": "Upcoming Recruitment", "link": "https://tnpsc.gov.in/" },
+    { "title": "Official Announcement", "link": "https://tnpsc.gov.in/" }
+
+  ]
+
+}

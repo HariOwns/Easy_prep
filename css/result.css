@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f3f4f6;
+}
+
+.result-wrapper {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+
+/* Banner */
+.result-banner {
+  background: linear-gradient(135deg, #f97316, #ea580c);
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  border-radius: 18px;
+  margin-bottom: 30px;
+}
+
+.result-banner i {
+  font-size: 40px;
+}
+
+.score-card {
+  background: white;
+  border-radius: 18px;
+  padding: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.score-card h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+.progress-bar {
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.progress-bar div {
+  height: 100%;
+  width: 0%;
+  background: #2563eb;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+
+.score-stats {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+
+.stat {
+  padding: 20px;
+  border-radius: 14px;
+}
+
+.correct { background: #dcfce7; }
+.incorrect { background: #fee2e2; }
+.time { background: #dbeafe; }
+
+.review-card {
+  background: white;
+  border-radius: 18px;
+  padding: 24px;
+  margin-bottom: 30px;
+}
+
+/* SCROLL FRAME */
+.review-list {
+  max-height: 350px;   /* 🔥 Fixed frame height */
+  overflow-y: auto;
+  margin-top: 16px;
+  padding-right: 6px;
+}
+
+/* Smooth Scroll */
+.review-list {
+  scroll-behavior: smooth;
+}
+
+/* Custom Scrollbar (Desktop) */
+.review-list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.review-list::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 6px;
+}
+
+.review-list::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.review-item {
+  border: 1px solid #fecaca;
+  background: #fff1f2;
+  padding: 14px;
+  border-radius: 12px;
+  margin-bottom: 14px;
+}
+
+.review-item.correct {
+  border-color: #bbf7d0;
+  background: #f0fdf4;
+}
+
+.result-actions {
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  flex: 1;
+  padding: 14px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+}
+
+.primary {
+  background: #2563eb;
+  color: white;
+}
+
+@media(max-width:768px){
+  .score-stats { grid-template-columns: 1fr; }
+  .result-actions { flex-direction: column; }
+  .review-list { max-height: 280px; }
+}

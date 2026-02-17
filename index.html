@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Easy Prep – TNPSC</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/auth.css" />
+</head>
+<body>
+
+<div class="page-wrapper">
+  <div class="auth-page">
+
+  <!-- LEFT CONTENT -->
+  <div class="auth-left">
+
+    <!-- BRAND -->
+    <div class="brand">
+      <div class="logo">
+        <i class="ri-graduation-cap-line"></i>
+      </div>
+      <h1>Easy Prep</h1>
+    </div>
+
+    <h2>TNPSC Exam Preparation</h2>
+
+    <p class="desc">
+      Your complete platform for Tamil Nadu Public Service Commission exam preparation.
+      Practice with timed tests, study materials, and track your progress.
+    </p>
+
+    <div class="features">
+      <div class="feature-card">
+        <i class="ri-book-open-line"></i>
+        <span>Study Materials</span>
+      </div>
+
+      <div class="feature-card">
+        <i class="ri-file-list-3-line"></i>
+        <span>Mock Tests</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- RIGHT AUTH CARD -->
+  <div class="auth-right">
+    <div class="auth-card">
+
+      <!-- TOGGLE -->
+      <div class="tabs">
+        <button id="loginTab" class="tab active" onclick="showLogin()">Login</button>
+        <button id="signupTab" class="tab" onclick="showSignup()">Sign Up</button>
+      </div>
+
+      <!-- ERROR BOX -->
+      <div id="errorBox" class="error-box"></div>
+
+      <!-- LOGIN -->
+      <div id="loginBox" class="form-box">
+        <label>Mobile Number / Username *</label>
+        <input id="liMobile" type="text" placeholder="Enter mobile number or username">
+
+        <label>Password *</label>
+        <div class="password-wrapper">
+          <input id="liPassword" type="password" placeholder="Enter your password">
+          <i class="ri-eye-off-line toggle-password"
+             onclick="togglePassword('liPassword', this)"></i>
+        </div>
+
+        <button class="primary-btn" onclick="login()">Login</button>
+
+        <p class="switch-text">
+          Don’t have an account?
+          <span onclick="showSignup()">Sign Up</span>
+        </p>
+      </div>
+
+      <!-- SIGNUP -->
+      <div id="signupBox" class="form-box hidden">
+        <label>Full Name *</label>
+        <input id="suName" type="text" placeholder="Enter your name">
+
+        <label>Mobile Number *</label>
+        <input id="suMobile" type="text" placeholder="Enter mobile number">
+
+        <label>Password *</label>
+        <div class="password-wrapper">
+          <input id="suPassword" type="password" placeholder="Create password">
+          <i class="ri-eye-off-line toggle-password"
+             onclick="togglePassword('suPassword', this)"></i>
+        </div>
+
+        <label>Select TNPSC Exam *</label>
+        <select id="suExam">
+          <option value="">Choose Exam</option>
+          <option>Group 1</option>
+          <option>Group 2</option>
+          <option>Group 2A</option>
+          <option>Group 4</option>
+        </select>
+
+        <button class="primary-btn" onclick="signup()">Create Account</button>
+
+        <p class="switch-text">
+          Already have an account?
+          <span onclick="showLogin()">Login</span>
+        </p>
+      </div>
+
+    </div>
+  </div>
+
+  </div>
+</div>
+
+
+<script src="js/auth.js"></script>
+</body>
+</html>

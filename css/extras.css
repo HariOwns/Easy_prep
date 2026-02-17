@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: #f8fafc;
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 30px;
+  background: white;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.header p {
+  margin: 2px 0 0;
+  font-size: 14px;
+  color: #64748b;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* CONTAINER */
+.container {
+  max-width: 950px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* INTRO BOX */
+.intro-box {
+  border-radius: 16px;
+  padding: 22px;
+  margin-bottom: 30px;
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.intro-box i {
+  font-size: 22px;
+}
+
+/* CARDS */
+.card {
+  background: white;
+  border-radius: 18px;
+  padding: 22px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
+  gap: 18px;
+  position: relative;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+  cursor: pointer;
+  transition: 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 30px rgba(0,0,0,0.08);
+}
+
+.icon-box {
+  width: 54px;
+  height: 54px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  flex-shrink: 0;
+}
+
+/* CONTENT */
+.card-content h3 {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.card-content p {
+  margin: 6px 0 10px;
+  font-size: 14px;
+  color: #475569;
+}
+
+.tag {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  background: #f1f5f9;
+}
+
+.external {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  font-size: 18px;
+  color: #94a3b8;
+}
+
+/* COLOR VARIANTS */
+.purple { background:#f3e8ff; color:#9333ea; }
+.blue { background:#e0edff; color:#2563eb; }
+.green { background:#dcfce7; color:#16a34a; }
+.orange { background:#ffedd5; color:#ea580c; }
+.red { background:#fee2e2; color:#dc2626; }
+
+/* VIDEO CARD STYLE */
+.video-top {
+  height: 90px;
+  border-radius: 18px 18px 0 0;
+  background: linear-gradient(to right,#dc2626,#b91c1c);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.video-top i {
+  font-size:28px;
+  color:white;
+}
+
+.video-card {
+  background:white;
+  border-radius:18px;
+  overflow:hidden;
+  box-shadow:0 6px 18px rgba(0,0,0,0.05);
+  margin-bottom:20px;
+  cursor:pointer;
+  transition:0.25s ease;
+}
+
+.video-card:hover {
+  transform:translateY(-4px);
+  box-shadow:0 14px 30px rgba(0,0,0,0.08);
+}
+
+.video-body {
+  padding:18px;
+  position:relative;
+}
+
+@media(max-width:768px){
+  .container { padding:0 14px; }
+}
