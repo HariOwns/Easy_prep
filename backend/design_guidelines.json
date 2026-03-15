@@ -1,0 +1,106 @@
+{
+  "project_name": "Easy Prep – TNPSC",
+  "design_philosophy": {
+    "identity": "E1 - The Anti-AI Designer",
+    "theme": "Light Mode (Professional & Minimal)",
+    "archetype": "The Lucid Focus",
+    "core_values": [
+      "Clarity over Decoration",
+      "Focus over Flash",
+      "Progress over Perfection"
+    ]
+  },
+  "typography": {
+    "font_family": {
+      "heading": "Manrope, sans-serif",
+      "body": "Inter, sans-serif"
+    },
+    "scale": {
+      "h1": "text-4xl md:text-5xl font-bold tracking-tight",
+      "h2": "text-3xl font-semibold tracking-tight",
+      "h3": "text-2xl font-semibold",
+      "body_lg": "text-lg leading-relaxed",
+      "body_base": "text-base leading-relaxed",
+      "caption": "text-sm text-muted-foreground"
+    }
+  },
+  "colors": {
+    "palette": {
+      "background": "#F8FAFC",
+      "surface": "#FFFFFF",
+      "primary": "#2563EB",
+      "primary_foreground": "#FFFFFF",
+      "secondary": "#F1F5F9",
+      "secondary_foreground": "#0F172A",
+      "accent": "#10B981",
+      "accent_foreground": "#FFFFFF",
+      "destructive": "#EF4444",
+      "muted": "#94A3B8",
+      "border": "#E2E8F0"
+    },
+    "usage": {
+      "body_bg": "bg-[#F8FAFC]",
+      "card_bg": "bg-white",
+      "text_primary": "text-slate-900",
+      "text_secondary": "text-slate-500",
+      "brand_primary": "bg-blue-600 hover:bg-blue-700 text-white"
+    }
+  },
+  "layout": {
+    "grid_system": "Bento Grid (Mode B)",
+    "spacing": {
+      "container_padding": "p-4 md:p-8",
+      "section_gap": "gap-6",
+      "card_padding": "p-6"
+    },
+    "radius": "rounded-xl",
+    "shadows": "shadow-sm hover:shadow-md transition-shadow duration-200"
+  },
+  "components": {
+    "buttons": {
+      "primary": "h-10 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 font-medium transition-colors",
+      "secondary": "h-10 px-4 py-2 bg-slate-100 text-slate-900 rounded-lg hover:bg-slate-200 font-medium transition-colors",
+      "ghost": "h-10 px-4 py-2 hover:bg-slate-100 text-slate-600 rounded-lg transition-colors"
+    },
+    "cards": {
+      "base": "bg-white border border-slate-200 rounded-xl shadow-sm p-6",
+      "interactive": "bg-white border border-slate-200 rounded-xl shadow-sm p-6 hover:border-blue-300 hover:shadow-md cursor-pointer transition-all"
+    },
+    "inputs": {
+      "base": "flex h-10 w-full rounded-md border border-slate-300 bg-white px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-slate-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
+    }
+  },
+  "assets": {
+    "images": {
+      "hero_login": "https://images.unsplash.com/photo-1767102060241-130cb9260718?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDF8MHwxfHNlYXJjaHwxfHxzdHVkZW50cyUyMHN0dWR5aW5nJTIwbGlicmFyeSUyMGZvY3VzZWR8ZW58MHx8fHwxNzcwNjI5NzQ4fDA&ixlib=rb-4.1.0&q=85",
+      "study_materials": "https://images.unsplash.com/photo-1633544861856-820e8bdbb5fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2MzR8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwb3BlbiUyMGJvb2slMjBlZHVjYXRpb258ZW58MHx8fHwxNzcwNjI5NzUyfDA&ixlib=rb-4.1.0&q=85",
+      "community": "https://images.unsplash.com/photo-1764922145331-7b726c1826b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2MzR8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXN0JTIwb3BlbiUyMGJvb2slMjBlZHVjYXRpb258ZW58MHx8fHwxNzcwNjI5NzUyfDA&ixlib=rb-4.1.0&q=85"
+    },
+    "icons": "lucide-react"
+  },
+  "data_strategy": {
+    "persistence": "localStorage",
+    "mock_data": "Use static JSON objects in a separate 'data' folder or file to simulate database records (users, questions, results).",
+    "state_management": "React useState + useEffect for local state and localStorage synchronization."
+  },
+  "instructions_to_main_agent": [
+    "1. SETUP: Ensure 'lucide-react' is installed. Use 'Manrope' and 'Inter' from Google Fonts via import in index.css.",
+    "2. THEME: Implement the 'Lucid Focus' theme. Override default shadcn colors in tailwind.config.js if necessary, or just use the utility classes defined in 'colors.usage'.",
+    "3. LAYOUT: Build a responsive layout. Desktop: Sidebar navigation. Mobile: Bottom navigation bar (fixed).",
+    "4. AUTH: Create a simulated Login/Signup flow. Store user session in localStorage. If no user found, redirect to Auth page.",
+    "5. DASHBOARD: Create a Bento Grid layout showing: 'Daily Progress', 'Quick Test Start', 'Recent Score', and 'News/Notifications'.",
+    "6. EXAM ENGINE: Build a robust MCQ engine. Features: Timer (countdown), Question Palette (Grid of numbers), Next/Prev navigation, Mark for Review. Auto-submit on timer end.",
+    "7. RESULTS: Show score immediately after submission. Calculate percentage and show a simple progress bar.",
+    "8. CONTENT: Populate with dummy TNPSC content (Group 4, Group 2). Use Tamil and English text for questions where possible (or just English placeholders if Tamil text isn't available).",
+    "9. TESTING: Add 'data-testid' to all interactive elements (buttons, inputs, cards).",
+    "10. DEPLOYMENT: Ensure the build is fully static (no server-side routing dependencies that break on GitHub Pages - use HashRouter if needed or handle paths carefully)."
+  ],
+  "universal_guidelines": [
+    "Do not use generic centered layouts.",
+    "Use 2-3x more spacing than typical designs.",
+    "Every interaction needs micro-animations (hover, active).",
+    "Use 'sonner' for toast notifications.",
+    "Avoid 'Inter' for headings; use 'Manrope'.",
+    "Never use pure black (#000000); use Slate-900 (#0F172A)."
+  ]
+}

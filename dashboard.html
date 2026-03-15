@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Easy Prep - TNPSC</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="css/theme.css"> -->
+  <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="header-left">
+    <h1>Easy Prep - TNPSC</h1>
+    <p>Preparing for: <span id="examName">Group 2</span></p>
+  </div>
+
+  <div class="header-right">
+    <i class="ri-user-line" onclick="goToProfile()"></i>
+    <i class="ri-logout-box-r-line" onclick="logout()"></i>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- WELCOME -->
+  <section class="welcome">
+    <h2>Welcome back, <span id="userName">Hari</span>!</h2>
+    <p>Continue your preparation journey</p>
+  </section>
+
+  <section class="hero-carousel">
+<div class="carousel">
+<div class="slide active">
+<img src="https://i.pinimg.com/736x/82/2b/55/822b5597d9e43b9b7989785c7873abec.jpg">
+<div class="caption">
+<h2>Prepare for TNPSC Group Exams</h2>
+<p>Access syllabus, resources and practice tests</p>
+</div>
+</div>
+<div class="slide">
+<img src="https://i.pinimg.com/736x/de/c4/a4/dec4a459262ad5a47d877ba0ba20b55b.jpg">
+<div class="caption">
+<h2>Mock Tests Available</h2>
+<p>Practice with real exam pattern questions</p>
+</div>
+</div>
+<div class="slide">
+<img src="https://i.pinimg.com/736x/87/6d/99/876d9926a9d046fb6df735f129263a1b.jpg">
+<div class="caption">
+<h2>Updated Study Materials</h2>
+<p>Latest syllabus and resources</p>
+</div>
+</div>
+<div class="slide">
+<img src="https://i.pinimg.com/736x/e0/17/da/e017dab87bd589963a605d29da7d9101.jpg">
+<div class="caption">
+<h2>Previous Year Papers</h2>
+<p>Download solved question papers</p>
+</div>
+</div>
+<div class="slide">
+<img src="https://i.pinimg.com/736x/ef/fa/a3/effaa3ab9c4cf34548b233319d356f69.jpg">
+<div class="caption">
+<h2>Daily Current Affairs</h2>
+<p>Stay updated for TNPSC exams</p>
+</div>
+</div>
+</div>
+<div class="carousel-dots"></div>
+</section>
+
+<div class="news-bar">
+<div class="news-tag">
+Latest News
+</div>
+<div class="news-ticker">
+<div class="news-track">
+<span>TNPSC Group 4 Notification Expected Soon</span>
+<span>Group 2 Exam Results Released</span>
+<span>New Study Materials Added for TNPSC Preparation</span>
+<span>Mock Tests Updated for 2026 Exams</span>
+</div>
+</div>
+</div>
+
+  <!-- STATS -->
+  <section class="stats">
+    <div class="stat">
+      <div class="stat-icon blue"><i class="ri-file-text-line"></i></div>
+      <h3 id="testsTaken">0</h3>
+      <span>Tests Taken</span>
+    </div>
+
+    <div class="stat">
+      <div class="stat-icon green"><i class="ri-award-line"></i></div>
+      <h3 id="bestScore">0%</h3>
+      <span>Best Score</span>
+    </div>
+
+    <div class="stat">
+      <div class="stat-icon purple"><i class="ri-focus-2-line"></i></div>
+      <h3 id="accuracy">0%</h3>
+      <span>Accuracy</span>
+    </div>
+
+    <div class="stat">
+      <div class="stat-icon orange"><i class="ri-line-chart-line"></i></div>
+      <h3 id="correctAnswers">0</h3>
+      <span>Correct Answers</span>
+    </div>
+  </section>
+
+  <!-- PROGRESS -->
+  <section class="progress-card">
+    <div class="progress-top">
+      <div>
+        <h3>Your Progress</h3>
+        <p>Keep going! Complete 10 tests to track your improvement</p>
+      </div>
+      <i class="ri-time-line"></i>
+    </div>
+
+    <div class="progress-bar">
+      <div id="progressFill"></div>
+    </div>
+
+    <span id="progressLabel">0 of 10 tests completed</span>
+  </section>
+
+  <!-- BIG ACTION CARDS -->
+  <section class="actions-large">
+
+<div class="action large bg-test" onclick="goToTestSetup()">
+<div class="icon-box blue">
+<i class="ri-timer-line"></i>
+</div>
+<h4>Start Mock Test</h4>
+<p>Timed MCQ practice tests</p>
+<span>Choose duration and start practicing now!</span>
+</div>
+
+<div class="action large bg-study" onclick="goToMaterials()">
+<div class="icon-box green">
+<i class="ri-book-open-line"></i>
+</div>
+<h4>Study Materials</h4>
+<p>Curated resources</p>
+<span>Official syllabus, notes, and references</span>
+</div>
+
+</section>
+
+  <!-- SMALL ACTION CARDS -->
+  <section class="actions-small">
+
+<div class="action bg-video" onclick="openExtras('videos')">
+<div class="card-strip red">
+<i class="ri-video-line"></i>
+</div>
+<h4>Tamil Videos</h4>
+<p>Watch expert lectures in Tamil</p>
+</div>
+
+<div class="action bg-community" onclick="openExtras('community')">
+<div class="card-strip purple">
+<i class="ri-group-line"></i>
+</div>
+<h4>Community</h4>
+<p>Join study groups and forums</p>
+</div>
+
+<div class="action bg-news" onclick="openExtras('news')">
+<div class="card-strip orange">
+<i class="ri-newspaper-line"></i>
+</div>
+<h4>Latest News</h4>
+<p>TNPSC updates and notifications</p>
+</div>
+
+</section>
+
+</main>
+<script src="js/theme.js"></script>
+<script src="js/dashboard.js"></script>
+
+<!-- THEME FAB -->
+<div class="theme-fab" onclick="toggleThemePanel()">
+  <i class="ri-palette-line"></i>
+</div>
+
+<!-- THEME PANEL -->
+<div class="theme-panel" id="themePanel">
+  <h4>Theme</h4>
+  <div class="theme-options">
+    <button onclick="setThemeMode('light')">Light</button>
+    <button onclick="setThemeMode('dark')">Dark</button>
+  </div>
+  <h4>Accent Color</h4>
+  <div class="accent-options">
+    <span style="background:#2563eb" onclick="setAccent('#2563eb')"></span>
+    <span style="background:#7c3aed" onclick="setAccent('#7c3aed')"></span>
+    <span style="background:#f97316" onclick="setAccent('#f97316')"></span>
+    <span style="background:#16a34a" onclick="setAccent('#16a34a')"></span>
+    <span style="background:#dc2626" onclick="setAccent('#dc2626')"></span>
+  </div>
+</div>
+
+<!-- CHATBOT BUTTON -->
+<div class="chatbot-btn" onclick="toggleChatbot()">
+<i class="ri-chat-3-line"></i>
+</div>
+
+<!-- CHATBOT WINDOW -->
+<div class="chatbot-box" id="chatbotBox">
+
+<div class="chat-header">
+<span>EasyPrep Assistant</span>
+<i class="ri-close-line" onclick="toggleChatbot()"></i>
+</div>
+
+<div class="chat-body" id="chatBody">
+<div class="bot-msg">
+Hello 👋  
+Ask me anything about TNPSC exams.
+</div>
+<div class="chat-menu">
+<button onclick="menuAction('tn election date')">TN Election Date</button>
+<button onclick="menuAction('tn chief minister')">TN Chief Minister</button>
+<button onclick="menuAction('tn election parties')">TN Election Parties</button>
+<button onclick="menuAction('tnpsc group 1')">TNPSC Group 1</button>
+<button onclick="menuAction('tnpsc group 2')">TNPSC Group 2</button>
+<button onclick="menuAction('tnpsc group 2a')">TNPSC Group 2A</button>
+<button onclick="menuAction('tnpsc group 4')">TNPSC Group 4</button>
+<button onclick="menuAction('tnpsc syllabus')">TNPSC Syllabus</button>
+<button onclick="menuAction('study tips')">Study Tips</button>
+</div>
+</div>
+
+<div class="chat-input">
+
+<div id="suggestions" class="suggestions-box"></div>
+
+<input
+type="text"
+id="chatInput"
+placeholder="Ask something..."
+onkeyup="showSuggestions()"
+onkeypress="handleChat(event)"
+>
+
+<button onclick="sendMessage()">
+<i class="ri-send-plane-line"></i>
+</button>
+
+</div>
+
+</div>
+</body>
+</html>

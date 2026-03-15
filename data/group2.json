@@ -1,0 +1,1544 @@
+{
+  "group": "Group 2",
+
+  "questions": [
+
+    {
+      "id": 1,
+      "question": "Which Article guarantees Right to Equality?",
+      "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+      "correctIndex": 0,
+      "explanation": "Article 14 guarantees Right to Equality."
+    },
+    {
+      "id": 2,
+      "question": "The Governor of a state is appointed by?",
+      "options": ["Chief Minister", "Prime Minister", "President", "Supreme Court"],
+      "correctIndex": 2,
+      "explanation": "The Governor is appointed by the President."
+    },
+    {
+      "id": 3,
+      "question": "Who founded the Justice Party?",
+      "options": ["Periyar", "T.M. Nair", "Anna", "Rajaji"],
+      "correctIndex": 1,
+      "explanation": "Justice Party was founded by T.M. Nair."
+    },
+    {
+      "id": 4,
+      "question": "Which is the capital of Tamil Nadu?",
+      "options": ["Madurai", "Chennai", "Salem", "Trichy"],
+      "correctIndex": 1,
+      "explanation": "Chennai is the capital city."
+    },
+    {
+      "id": 5,
+      "question": "MGNREGA guarantees how many days of employment?",
+      "options": ["50", "75", "100", "150"],
+      "correctIndex": 2,
+      "explanation": "MGNREGA guarantees 100 days of employment."
+    },
+	{
+	"id": 6,
+	"question": "Who is known as Father of Dravidian Movement?",
+	"options": ["Anna", "Periyar", "Rajaji", "Kamaraj"],
+	"correctIndex": 1,
+	"explanation": "Periyar E.V. Ramasamy is known as Father of Dravidian Movement."
+	},
+	{
+	"id": 7,
+	"question": "Which is the longest river in Tamil Nadu?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery is the longest river in Tamil Nadu."
+	},
+	{
+	"id": 8,
+	"question": "Which Article provides Right to Constitutional Remedies?",
+	"options": ["14", "19", "21", "32"],
+	"correctIndex": 3,
+	"explanation": "Article 32 provides Right to Constitutional Remedies."
+	},
+	{
+	"id": 9,
+	"question": "Which Five Year Plan was first implemented in India?",
+	"options": ["1951", "1947", "1956", "1961"],
+	"correctIndex": 0,
+	"explanation": "First Five Year Plan started in 1951."
+	},
+	{
+	"id": 10,
+	"question": "The capital of Chola Empire was?",
+	"options": ["Madurai", "Puhar", "Thanjavur", "Kanchipuram"],
+	"correctIndex": 2,
+	"explanation": "Thanjavur was the capital of Chola Empire."
+	},
+
+	{
+	"id": 11,
+	"question": "Which state is known as Rice Bowl of Tamil Nadu?",
+	"options": ["Thanjavur", "Salem", "Madurai", "Coimbatore"],
+	"correctIndex": 0,
+	"explanation": "Thanjavur is known as Rice Bowl of Tamil Nadu."
+	},
+	{
+	"id": 12,
+	"question": "Who was the first Chief Minister of Tamil Nadu?",
+	"options": ["Kamaraj", "Rajaji", "Anna", "MGR"],
+	"correctIndex": 1,
+	"explanation": "C. Rajagopalachari was first CM of Tamil Nadu."
+	},
+	{
+	"id": 13,
+	"question": "Which is the highest peak in Tamil Nadu?",
+	"options": ["Anamudi", "Doddabetta", "Yercaud", "Nilgiri"],
+	"correctIndex": 1,
+	"explanation": "Doddabetta is highest peak in Tamil Nadu."
+	},
+	{
+	"id": 14,
+	"question": "Who founded Self Respect Movement?",
+	"options": ["Anna", "Periyar", "Rajaji", "Kamaraj"],
+	"correctIndex": 1,
+	"explanation": "Periyar founded Self Respect Movement."
+	},
+	{
+	"id": 15,
+	"question": "Which amendment introduced GST?",
+	"options": ["101st", "42nd", "44th", "86th"],
+	"correctIndex": 0,
+	"explanation": "101st Amendment introduced GST."
+	},
+
+	{
+	"id": 16,
+	"question": "Which is India's national animal?",
+	"options": ["Lion", "Tiger", "Elephant", "Leopard"],
+	"correctIndex": 1,
+	"explanation": "Tiger is India's national animal."
+	},
+	{
+	"id": 17,
+	"question": "Which scheme promotes cleanliness in India?",
+	"options": ["PMAY", "Swachh Bharat", "UDAY", "PMJDY"],
+	"correctIndex": 1,
+	"explanation": "Swachh Bharat Mission promotes cleanliness."
+	},
+	{
+	"id": 18,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy rate."
+	},
+	{
+	"id": 19,
+	"question": "Which Mughal ruler built Red Fort?",
+	"options": ["Babur", "Akbar", "Shah Jahan", "Aurangzeb"],
+	"correctIndex": 2,
+	"explanation": "Shah Jahan built Red Fort."
+	},
+	{
+	"id": 20,
+	"question": "Right to Education was added by which amendment?",
+	"options": ["86th", "42nd", "44th", "52nd"],
+	"correctIndex": 0,
+	"explanation": "86th Amendment added Right to Education."
+	},
+
+	{
+	"id": 21,
+	"question": "Which river is called Ganga of the South?",
+	"options": ["Krishna", "Godavari", "Cauvery", "Vaigai"],
+	"correctIndex": 2,
+	"explanation": "Cauvery is called Ganga of the South."
+	},
+	{
+	"id": 22,
+	"question": "Who was the founder of Mauryan Empire?",
+	"options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Harsha"],
+	"correctIndex": 1,
+	"explanation": "Chandragupta Maurya founded Mauryan Empire."
+	},
+	{
+	"id": 23,
+	"question": "Which tax is collected by State Government?",
+	"options": ["Income Tax", "Custom Duty", "State GST", "Corporate Tax"],
+	"correctIndex": 2,
+	"explanation": "State GST is collected by State Governments."
+	},
+	{
+	"id": 24,
+	"question": "Which is the national flower of India?",
+	"options": ["Rose", "Lotus", "Lily", "Jasmine"],
+	"correctIndex": 1,
+	"explanation": "Lotus is the national flower."
+	},
+	{
+	"id": 25,
+	"question": "Which year did India get independence?",
+	"options": ["1945", "1946", "1947", "1950"],
+	"correctIndex": 2,
+	"explanation": "India got independence in 1947."
+	},
+
+	{
+	"id": 26,
+	"question": "Which is the largest ocean?",
+	"options": ["Indian", "Atlantic", "Pacific", "Arctic"],
+	"correctIndex": 2,
+	"explanation": "Pacific Ocean is largest."
+	},
+	{
+	"id": 27,
+	"question": "Who discovered sea route to India?",
+	"options": ["Columbus", "Vasco da Gama", "Magellan", "Cook"],
+	"correctIndex": 1,
+	"explanation": "Vasco da Gama discovered sea route."
+	},
+	{
+	"id": 28,
+	"question": "Which vitamin prevents scurvy?",
+	"options": ["A", "B", "C", "D"],
+	"correctIndex": 2,
+	"explanation": "Vitamin C prevents scurvy."
+	},
+	{
+	"id": 29,
+	"question": "Which state is known as Land of Five Rivers?",
+	"options": ["Punjab", "Haryana", "UP", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Punjab is Land of Five Rivers."
+	},
+	{
+	"id": 30,
+	"question": "Who was known as Iron Man of India?",
+	"options": ["Gandhi", "Nehru", "Sardar Patel", "Ambedkar"],
+	"correctIndex": 2,
+	"explanation": "Sardar Patel is Iron Man of India."
+	},
+
+	{
+	"id": 31,
+	"question": "Which organization conducts Civil Services Exam?",
+	"options": ["SSC", "UPSC", "TNPSC", "RBI"],
+	"correctIndex": 1,
+	"explanation": "UPSC conducts Civil Services Exam."
+	},
+	{
+	"id": 32,
+	"question": "Which soil is best for cotton?",
+	"options": ["Black", "Red", "Alluvial", "Laterite"],
+	"correctIndex": 0,
+	"explanation": "Black soil is ideal for cotton."
+	},
+	{
+	"id": 33,
+	"question": "Which instrument measures earthquakes?",
+	"options": ["Thermometer", "Barometer", "Seismograph", "Hygrometer"],
+	"correctIndex": 2,
+	"explanation": "Seismograph measures earthquakes."
+	},
+	{
+	"id": 34,
+	"question": "Which Indian city is known as Pink City?",
+	"options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+	"correctIndex": 0,
+	"explanation": "Jaipur is Pink City."
+	},
+	{
+	"id": 35,
+	"question": "Which Indian satellite provides navigation?",
+	"options": ["INSAT", "NAVIC", "GSAT", "Aryabhata"],
+	"correctIndex": 1,
+	"explanation": "NAVIC provides navigation services."
+	},
+
+	{
+	"id": 36,
+	"question": "Which is smallest Union Territory?",
+	"options": ["Lakshadweep", "Delhi", "Puducherry", "Chandigarh"],
+	"correctIndex": 0,
+	"explanation": "Lakshadweep is smallest UT."
+	},
+	{
+	"id": 37,
+	"question": "Which amendment is known as Mini Constitution?",
+	"options": ["42nd", "44th", "52nd", "61st"],
+	"correctIndex": 0,
+	"explanation": "42nd Amendment is called Mini Constitution."
+	},
+	{
+	"id": 38,
+	"question": "Which is India's national bird?",
+	"options": ["Peacock", "Eagle", "Sparrow", "Parrot"],
+	"correctIndex": 0,
+	"explanation": "Peacock is national bird."
+	},
+	{
+	"id": 39,
+	"question": "Who wrote Discovery of India?",
+	"options": ["Gandhi", "Nehru", "Ambedkar", "Tilak"],
+	"correctIndex": 1,
+	"explanation": "Jawaharlal Nehru wrote Discovery of India."
+	},
+	{
+	"id": 40,
+	"question": "Which is India's central bank?",
+	"options": ["SBI", "RBI", "SEBI", "NABARD"],
+	"correctIndex": 1,
+	"explanation": "RBI is India's central bank."
+	},
+
+	{
+	"id": 41,
+	"question": "Which country is called Land of Rising Sun?",
+	"options": ["China", "Japan", "Thailand", "Korea"],
+	"correctIndex": 1,
+	"explanation": "Japan is called Land of Rising Sun."
+	},
+	{
+	"id": 42,
+	"question": "Which vitamin deficiency causes rickets?",
+	"options": ["A", "B", "C", "D"],
+	"correctIndex": 3,
+	"explanation": "Vitamin D deficiency causes rickets."
+	},
+	{
+	"id": 43,
+	"question": "Which organ purifies blood?",
+	"options": ["Heart", "Kidney", "Liver", "Lungs"],
+	"correctIndex": 1,
+	"explanation": "Kidney purifies blood."
+	},
+	{
+	"id": 44,
+	"question": "Which is largest continent?",
+	"options": ["Africa", "Asia", "Europe", "Australia"],
+	"correctIndex": 1,
+	"explanation": "Asia is largest continent."
+	},
+	{
+	"id": 45,
+	"question": "UNO headquarters is in?",
+	"options": ["Geneva", "New York", "Paris", "London"],
+	"correctIndex": 1,
+	"explanation": "UNO headquarters is in New York."
+	},
+
+	{
+	"id": 46,
+	"question": "Which gas is most abundant in atmosphere?",
+	"options": ["Oxygen", "Nitrogen", "CO2", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "Nitrogen forms 78% of atmosphere."
+	},
+	{
+	"id": 47,
+	"question": "Which is India's national aquatic animal?",
+	"options": ["Dolphin", "Whale", "Shark", "Turtle"],
+	"correctIndex": 0,
+	"explanation": "Gangetic Dolphin is national aquatic animal."
+	},
+	{
+	"id": 48,
+	"question": "Which amendment added Fundamental Duties?",
+	"options": ["42nd", "44th", "52nd", "61st"],
+	"correctIndex": 0,
+	"explanation": "42nd Amendment added Fundamental Duties."
+	},
+	{
+	"id": 49,
+	"question": "Which is the southernmost point of India?",
+	"options": ["Kanyakumari", "Indira Point", "Rameswaram", "Tuticorin"],
+	"correctIndex": 1,
+	"explanation": "Indira Point is southernmost point."
+	},
+	{
+	"id": 50,
+	"question": "Which Indian mission landed on Moon south pole?",
+	"options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+	"correctIndex": 2,
+	"explanation": "Chandrayaan-3 landed on Moon's south pole."
+	},
+	{
+	"id": 51,
+	"question": "Which Article deals with Emergency provisions?",
+	"options": ["Article 352", "Article 370", "Article 368", "Article 21"],
+	"correctIndex": 0,
+	"explanation": "Article 352 deals with National Emergency."
+	},
+	{
+	"id": 52,
+	"question": "The Finance Commission is constituted every how many years?",
+	"options": ["3", "5", "6", "10"],
+	"correctIndex": 1,
+	"explanation": "Finance Commission is constituted every 5 years."
+	},
+	{
+	"id": 53,
+	"question": "Which movement was started by Mahatma Gandhi in 1930?",
+	"options": ["Quit India", "Non-Cooperation", "Civil Disobedience", "Swadeshi"],
+	"correctIndex": 2,
+	"explanation": "Civil Disobedience Movement began in 1930."
+	},
+	{
+	"id": 54,
+	"question": "Which is the largest district in Tamil Nadu by area?",
+	"options": ["Erode", "Coimbatore", "Tiruvannamalai", "Vellore"],
+	"correctIndex": 2,
+	"explanation": "Tiruvannamalai is one of the largest districts."
+	},
+	{
+	"id": 55,
+	"question": "Which tax replaced VAT in India?",
+	"options": ["Income Tax", "GST", "Excise", "Service Tax"],
+	"correctIndex": 1,
+	"explanation": "GST replaced VAT."
+	},
+
+	{
+	"id": 56,
+	"question": "Who built the Brihadeeswarar Temple?",
+	"options": ["Rajaraja Chola I", "Ashoka", "Krishnadevaraya", "Akbar"],
+	"correctIndex": 0,
+	"explanation": "Rajaraja Chola I built the temple."
+	},
+	{
+	"id": 57,
+	"question": "Which river is called Sorrow of Bihar?",
+	"options": ["Ganga", "Kosi", "Yamuna", "Brahmaputra"],
+	"correctIndex": 1,
+	"explanation": "Kosi is called Sorrow of Bihar."
+	},
+	{
+	"id": 58,
+	"question": "Which sector contributes highest to India's GDP?",
+	"options": ["Agriculture", "Industry", "Services", "Mining"],
+	"correctIndex": 2,
+	"explanation": "Services sector contributes highest."
+	},
+	{
+	"id": 59,
+	"question": "The Indian Parliament consists of?",
+	"options": ["President + Lok Sabha", "Lok Sabha + Rajya Sabha", "President + Two Houses", "Supreme Court + Lok Sabha"],
+	"correctIndex": 2,
+	"explanation": "Parliament consists of President + Lok Sabha + Rajya Sabha."
+	},
+	{
+	"id": 60,
+	"question": "Which vitamin helps in blood clotting?",
+	"options": ["A", "B", "C", "K"],
+	"correctIndex": 3,
+	"explanation": "Vitamin K helps in clotting."
+	},
+
+	{
+	"id": 61,
+	"question": "Who discovered sea route to India?",
+	"options": ["Columbus", "Vasco da Gama", "Magellan", "Cook"],
+	"correctIndex": 1,
+	"explanation": "Vasco da Gama discovered sea route."
+	},
+	{
+	"id": 62,
+	"question": "Which Indian state produces highest rice?",
+	"options": ["Punjab", "West Bengal", "Tamil Nadu", "Bihar"],
+	"correctIndex": 1,
+	"explanation": "West Bengal produces highest rice."
+	},
+	{
+	"id": 63,
+	"question": "Which Amendment reduced voting age to 18?",
+	"options": ["42nd", "44th", "61st", "73rd"],
+	"correctIndex": 2,
+	"explanation": "61st Amendment reduced voting age."
+	},
+	{
+	"id": 64,
+	"question": "Which Indian city is known as Manchester of South India?",
+	"options": ["Madurai", "Salem", "Coimbatore", "Erode"],
+	"correctIndex": 2,
+	"explanation": "Coimbatore is Manchester of South India."
+	},
+	{
+	"id": 65,
+	"question": "Which organization regulates stock market?",
+	"options": ["RBI", "SEBI", "IRDAI", "NABARD"],
+	"correctIndex": 1,
+	"explanation": "SEBI regulates stock markets."
+	},
+
+	{
+	"id": 66,
+	"question": "Who was the first President of India?",
+	"options": ["Rajendra Prasad", "Nehru", "Ambedkar", "Patel"],
+	"correctIndex": 0,
+	"explanation": "Dr. Rajendra Prasad was first President."
+	},
+	{
+	"id": 67,
+	"question": "Which is the highest civilian award in India?",
+	"options": ["Padma Shri", "Padma Bhushan", "Bharat Ratna", "Param Vir Chakra"],
+	"correctIndex": 2,
+	"explanation": "Bharat Ratna is highest civilian award."
+	},
+	{
+	"id": 68,
+	"question": "Which layer protects Earth from UV rays?",
+	"options": ["Troposphere", "Ozone layer", "Mesosphere", "Ionosphere"],
+	"correctIndex": 1,
+	"explanation": "Ozone layer absorbs UV radiation."
+	},
+	{
+	"id": 69,
+	"question": "Who is known as Father of Indian Constitution?",
+	"options": ["Gandhi", "Nehru", "Ambedkar", "Rajendra Prasad"],
+	"correctIndex": 2,
+	"explanation": "Dr. B.R. Ambedkar is Father of Constitution."
+	},
+	{
+	"id": 70,
+	"question": "Which is the longest coastline state in India?",
+	"options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Kerala"],
+	"correctIndex": 1,
+	"explanation": "Gujarat has longest coastline."
+	},
+
+	{
+	"id": 71,
+	"question": "Which gas is used in fire extinguishers?",
+	"options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "CO2 is used in fire extinguishers."
+	},
+	{
+	"id": 72,
+	"question": "Which freedom fighter founded Forward Bloc?",
+	"options": ["Gandhi", "Subhash Chandra Bose", "Nehru", "Tilak"],
+	"correctIndex": 1,
+	"explanation": "Subhash Bose founded Forward Bloc."
+	},
+	{
+	"id": 73,
+	"question": "Which is the largest plateau in India?",
+	"options": ["Deccan Plateau", "Malwa", "Chota Nagpur", "Bundelkhand"],
+	"correctIndex": 0,
+	"explanation": "Deccan Plateau is largest."
+	},
+	{
+	"id": 74,
+	"question": "Which organ produces insulin?",
+	"options": ["Liver", "Kidney", "Pancreas", "Heart"],
+	"correctIndex": 2,
+	"explanation": "Pancreas produces insulin."
+	},
+	{
+	"id": 75,
+	"question": "Which day is celebrated as Constitution Day?",
+	"options": ["26 Jan", "15 Aug", "26 Nov", "2 Oct"],
+	"correctIndex": 2,
+	"explanation": "26 November is Constitution Day."
+	},
+
+	{
+	"id": 76,
+	"question": "Which Indian state shares longest international border?",
+	"options": ["Punjab", "Rajasthan", "West Bengal", "Assam"],
+	"correctIndex": 2,
+	"explanation": "West Bengal shares longest international border."
+	},
+	{
+	"id": 77,
+	"question": "Which Mughal ruler abolished Jizya tax?",
+	"options": ["Babur", "Akbar", "Aurangzeb", "Humayun"],
+	"correctIndex": 1,
+	"explanation": "Akbar abolished Jizya tax."
+	},
+	{
+	"id": 78,
+	"question": "Which is the deepest ocean?",
+	"options": ["Indian", "Atlantic", "Pacific", "Arctic"],
+	"correctIndex": 2,
+	"explanation": "Pacific Ocean is deepest."
+	},
+	{
+	"id": 79,
+	"question": "Which mission successfully landed on Moon south pole?",
+	"options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+	"correctIndex": 2,
+	"explanation": "Chandrayaan-3 landed successfully."
+	},
+	{
+	"id": 80,
+	"question": "Which state is known as Spice Garden of India?",
+	"options": ["Kerala", "Tamil Nadu", "Karnataka", "Goa"],
+	"correctIndex": 0,
+	"explanation": "Kerala is known as Spice Garden."
+	},
+
+	{
+	"id": 81,
+	"question": "Which is India's national flower?",
+	"options": ["Rose", "Lotus", "Lily", "Jasmine"],
+	"correctIndex": 1,
+	"explanation": "Lotus is national flower."
+	},
+	{
+	"id": 82,
+	"question": "Which movement started in 1942?",
+	"options": ["Non-Cooperation", "Civil Disobedience", "Quit India", "Swadeshi"],
+	"correctIndex": 2,
+	"explanation": "Quit India Movement started in 1942."
+	},
+	{
+	"id": 83,
+	"question": "Which river originates from Gangotri glacier?",
+	"options": ["Yamuna", "Ganga", "Godavari", "Krishna"],
+	"correctIndex": 1,
+	"explanation": "Ganga originates from Gangotri glacier."
+	},
+	{
+	"id": 84,
+	"question": "Which vitamin prevents scurvy?",
+	"options": ["A", "B", "C", "D"],
+	"correctIndex": 2,
+	"explanation": "Vitamin C prevents scurvy."
+	},
+	{
+	"id": 85,
+	"question": "Which body audits government accounts?",
+	"options": ["RBI", "CAG", "SEBI", "UPSC"],
+	"correctIndex": 1,
+	"explanation": "CAG audits government accounts."
+	},
+
+	{
+	"id": 86,
+	"question": "Which Indian state is largest by area?",
+	"options": ["UP", "Rajasthan", "Madhya Pradesh", "Maharashtra"],
+	"correctIndex": 1,
+	"explanation": "Rajasthan is largest by area."
+	},
+	{
+	"id": 87,
+	"question": "Which is the fastest land animal?",
+	"options": ["Lion", "Tiger", "Cheetah", "Leopard"],
+	"correctIndex": 2,
+	"explanation": "Cheetah is fastest land animal."
+	},
+	{
+	"id": 88,
+	"question": "Which Indian river is called Dakshina Ganga?",
+	"options": ["Krishna", "Godavari", "Cauvery", "Vaigai"],
+	"correctIndex": 2,
+	"explanation": "Cauvery is called Dakshina Ganga."
+	},
+	{
+	"id": 89,
+	"question": "Which is India's national bird?",
+	"options": ["Peacock", "Eagle", "Sparrow", "Parrot"],
+	"correctIndex": 0,
+	"explanation": "Peacock is national bird."
+	},
+	{
+	"id": 90,
+	"question": "Which is the largest freshwater lake in India?",
+	"options": ["Chilika", "Wular", "Dal", "Pulicat"],
+	"correctIndex": 1,
+	"explanation": "Wular Lake is largest freshwater lake."
+	},
+
+	{
+	"id": 91,
+	"question": "Which organ purifies blood?",
+	"options": ["Heart", "Kidney", "Lungs", "Liver"],
+	"correctIndex": 1,
+	"explanation": "Kidney purifies blood."
+	},
+	{
+	"id": 92,
+	"question": "Which state is known as Land of Five Rivers?",
+	"options": ["Punjab", "Haryana", "UP", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Punjab is Land of Five Rivers."
+	},
+	{
+	"id": 93,
+	"question": "Which Article deals with amendment of Constitution?",
+	"options": ["352", "368", "370", "356"],
+	"correctIndex": 1,
+	"explanation": "Article 368 deals with amendment."
+	},
+	{
+	"id": 94,
+	"question": "Which is India's national aquatic animal?",
+	"options": ["Dolphin", "Whale", "Shark", "Turtle"],
+	"correctIndex": 0,
+	"explanation": "Gangetic Dolphin is national aquatic animal."
+	},
+	{
+	"id": 95,
+	"question": "Which is the highest peak in South India?",
+	"options": ["Anamudi", "Doddabetta", "Nilgiri", "Palani"],
+	"correctIndex": 0,
+	"explanation": "Anamudi is highest peak."
+	},
+
+	{
+	"id": 96,
+	"question": "Which gas causes global warming?",
+	"options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+	"correctIndex": 2,
+	"explanation": "CO2 causes global warming."
+	},
+	{
+	"id": 97,
+	"question": "Which year did Civil Disobedience Movement start?",
+	"options": ["1919", "1920", "1930", "1942"],
+	"correctIndex": 2,
+	"explanation": "Civil Disobedience began in 1930."
+	},
+	{
+	"id": 98,
+	"question": "Which country launched first artificial satellite?",
+	"options": ["USA", "Russia", "China", "India"],
+	"correctIndex": 1,
+	"explanation": "USSR launched Sputnik."
+	},
+	{
+	"id": 99,
+	"question": "Which amendment introduced Panchayati Raj?",
+	"options": ["42nd", "73rd", "74th", "86th"],
+	"correctIndex": 1,
+	"explanation": "73rd Amendment introduced Panchayati Raj."
+	},
+	{
+	"id": 100,
+	"question": "Which is the smallest state in India by area?",
+	"options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+	"correctIndex": 0,
+	"explanation": "Goa is smallest state."
+	},
+	{
+	"id": 101,
+	"question": "Which Article deals with Fundamental Duties?",
+	"options": ["Article 32", "Article 51A", "Article 368", "Article 19"],
+	"correctIndex": 1,
+	"explanation": "Article 51A lists Fundamental Duties."
+	},
+	{
+	"id": 102,
+	"question": "Who appoints the Chief Minister of a state?",
+	"options": ["Prime Minister", "President", "Governor", "Speaker"],
+	"correctIndex": 2,
+	"explanation": "Governor appoints the Chief Minister."
+	},
+	{
+	"id": 103,
+	"question": "Which Tamil king built Kallanai (Grand Anicut)?",
+	"options": ["Rajaraja Chola", "Karikala Chola", "Nedunchezhiyan", "Cheran Senguttuvan"],
+	"correctIndex": 1,
+	"explanation": "Karikala Chola built Kallanai."
+	},
+	{
+	"id": 104,
+	"question": "Which is the official language of Tamil Nadu?",
+	"options": ["Hindi", "English", "Tamil", "Telugu"],
+	"correctIndex": 2,
+	"explanation": "Tamil is the official language."
+	},
+	{
+	"id": 105,
+	"question": "Which Indian state has largest number of districts?",
+	"options": ["UP", "Tamil Nadu", "Maharashtra", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Uttar Pradesh has largest number of districts."
+	},
+
+	{
+	"id": 106,
+	"question": "Which scheme aims at housing for all?",
+	"options": ["PMJDY", "PMAY", "MGNREGA", "UDAY"],
+	"correctIndex": 1,
+	"explanation": "Pradhan Mantri Awas Yojana aims housing for all."
+	},
+	{
+	"id": 107,
+	"question": "Which is the largest port in Tamil Nadu?",
+	"options": ["Tuticorin", "Chennai Port", "Ennore", "Nagapattinam"],
+	"correctIndex": 1,
+	"explanation": "Chennai Port is largest port in Tamil Nadu."
+	},
+	{
+	"id": 108,
+	"question": "Which movement was launched by Periyar?",
+	"options": ["Quit India", "Self Respect Movement", "Swadeshi", "Civil Disobedience"],
+	"correctIndex": 1,
+	"explanation": "Periyar launched Self Respect Movement."
+	},
+	{
+	"id": 109,
+	"question": "Which body prepares the Union Budget?",
+	"options": ["RBI", "Finance Ministry", "SEBI", "NITI Aayog"],
+	"correctIndex": 1,
+	"explanation": "Finance Ministry prepares Union Budget."
+	},
+	{
+	"id": 110,
+	"question": "Which is the national tree of India?",
+	"options": ["Neem", "Peepal", "Banyan", "Ashoka"],
+	"correctIndex": 2,
+	"explanation": "Banyan is national tree."
+	},
+
+	{
+	"id": 111,
+	"question": "Which river flows through Madurai?",
+	"options": ["Cauvery", "Vaigai", "Palar", "Krishna"],
+	"correctIndex": 1,
+	"explanation": "Vaigai flows through Madurai."
+	},
+	{
+	"id": 112,
+	"question": "Which act abolished Sati?",
+	"options": ["Regulating Act", "Sati Abolition Act", "Rowlatt Act", "Charter Act"],
+	"correctIndex": 1,
+	"explanation": "Sati Abolition Act abolished Sati."
+	},
+	{
+	"id": 113,
+	"question": "Which Article guarantees Freedom of Religion?",
+	"options": ["14", "19", "25", "32"],
+	"correctIndex": 2,
+	"explanation": "Article 25 guarantees Freedom of Religion."
+	},
+	{
+	"id": 114,
+	"question": "Which is India's largest dam?",
+	"options": ["Bhakra Nangal", "Hirakud", "Tehri", "Mettur"],
+	"correctIndex": 1,
+	"explanation": "Hirakud is one of the largest dams."
+	},
+	{
+	"id": 115,
+	"question": "Which is Tamil Nadu's state animal?",
+	"options": ["Elephant", "Nilgiri Tahr", "Tiger", "Lion"],
+	"correctIndex": 1,
+	"explanation": "Nilgiri Tahr is state animal."
+	},
+
+	{
+	"id": 116,
+	"question": "Which Indian mission was sent to Mars?",
+	"options": ["Chandrayaan", "Mangalyaan", "Gaganyaan", "Aditya L1"],
+	"correctIndex": 1,
+	"explanation": "Mangalyaan was Mars mission."
+	},
+	{
+	"id": 117,
+	"question": "Which body regulates telecom in India?",
+	"options": ["TRAI", "SEBI", "RBI", "IRDAI"],
+	"correctIndex": 0,
+	"explanation": "TRAI regulates telecom sector."
+	},
+	{
+	"id": 118,
+	"question": "Which is the main occupation in Tamil Nadu?",
+	"options": ["Fishing", "Agriculture", "IT", "Mining"],
+	"correctIndex": 1,
+	"explanation": "Agriculture is major occupation."
+	},
+	{
+	"id": 119,
+	"question": "Which amendment added Right to Education?",
+	"options": ["86th", "42nd", "44th", "73rd"],
+	"correctIndex": 0,
+	"explanation": "86th Amendment added RTE."
+	},
+	{
+	"id": 120,
+	"question": "Which city is called Detroit of India?",
+	"options": ["Chennai", "Mumbai", "Delhi", "Pune"],
+	"correctIndex": 0,
+	"explanation": "Chennai is Detroit of India."
+	},
+
+	{
+	"id": 121,
+	"question": "Which is Tamil Nadu's state flower?",
+	"options": ["Lotus", "Jasmine", "Gloriosa Lily", "Rose"],
+	"correctIndex": 2,
+	"explanation": "Gloriosa Lily is state flower."
+	},
+	{
+	"id": 122,
+	"question": "Which act introduced local self government?",
+	"options": ["Regulating Act", "Pitt's India Act", "Ripon’s Resolution", "Charter Act"],
+	"correctIndex": 2,
+	"explanation": "Lord Ripon's Resolution introduced local self government."
+	},
+	{
+	"id": 123,
+	"question": "Which gas is most abundant in atmosphere?",
+	"options": ["Oxygen", "Nitrogen", "CO2", "Hydrogen"],
+	"correctIndex": 1,
+	"explanation": "Nitrogen is most abundant."
+	},
+	{
+	"id": 124,
+	"question": "Which state is known as Temple State of India?",
+	"options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra"],
+	"correctIndex": 0,
+	"explanation": "Tamil Nadu is Temple State."
+	},
+	{
+	"id": 125,
+	"question": "Which is Tamil Nadu's largest wildlife sanctuary?",
+	"options": ["Mudumalai", "Vedanthangal", "Anamalai", "Kalakad"],
+	"correctIndex": 0,
+	"explanation": "Mudumalai is largest wildlife sanctuary."
+	},
+
+	{
+	"id": 126,
+	"question": "Which body controls monetary policy?",
+	"options": ["Finance Ministry", "RBI", "SEBI", "NITI Aayog"],
+	"correctIndex": 1,
+	"explanation": "RBI controls monetary policy."
+	},
+	{
+	"id": 127,
+	"question": "Who was first Governor-General of independent India?",
+	"options": ["Mountbatten", "Rajaji", "Nehru", "Rajendra Prasad"],
+	"correctIndex": 0,
+	"explanation": "Mountbatten was first Governor-General."
+	},
+	{
+	"id": 128,
+	"question": "Which city is called Steel City of India?",
+	"options": ["Jamshedpur", "Bhilai", "Rourkela", "Durgapur"],
+	"correctIndex": 0,
+	"explanation": "Jamshedpur is Steel City."
+	},
+	{
+	"id": 129,
+	"question": "Which year was Constitution adopted?",
+	"options": ["1947", "1948", "1949", "1950"],
+	"correctIndex": 2,
+	"explanation": "Constitution adopted on 26 November 1949."
+	},
+	{
+	"id": 130,
+	"question": "Which river originates from Amarkantak?",
+	"options": ["Narmada", "Krishna", "Godavari", "Yamuna"],
+	"correctIndex": 0,
+	"explanation": "Narmada originates from Amarkantak."
+	},
+
+	{
+	"id": 131,
+	"question": "Which is India's national fruit?",
+	"options": ["Banana", "Mango", "Apple", "Guava"],
+	"correctIndex": 1,
+	"explanation": "Mango is national fruit."
+	},
+	{
+	"id": 132,
+	"question": "Which is Tamil Nadu's state bird?",
+	"options": ["Peacock", "Emerald Dove", "Parrot", "Eagle"],
+	"correctIndex": 1,
+	"explanation": "Emerald Dove is state bird."
+	},
+	{
+	"id": 133,
+	"question": "Which body conducts census in India?",
+	"options": ["RBI", "Home Ministry", "Planning Commission", "NITI Aayog"],
+	"correctIndex": 1,
+	"explanation": "Census conducted by Home Ministry."
+	},
+	{
+	"id": 134,
+	"question": "Which is India's national river?",
+	"options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+	"correctIndex": 0,
+	"explanation": "Ganga is national river."
+	},
+	{
+	"id": 135,
+	"question": "Which is Tamil Nadu's largest city by area?",
+	"options": ["Chennai", "Coimbatore", "Madurai", "Salem"],
+	"correctIndex": 0,
+	"explanation": "Chennai is largest city by area."
+	},
+
+	{
+	"id": 136,
+	"question": "Which scheme provides LPG connections to poor?",
+	"options": ["PMAY", "Ujjwala Yojana", "UDAY", "MGNREGA"],
+	"correctIndex": 1,
+	"explanation": "Ujjwala Yojana provides LPG connections."
+	},
+	{
+	"id": 137,
+	"question": "Which year was GST implemented?",
+	"options": ["2016", "2017", "2018", "2019"],
+	"correctIndex": 1,
+	"explanation": "GST implemented in 2017."
+	},
+	{
+	"id": 138,
+	"question": "Which is India's national anthem?",
+	"options": ["Vande Mataram", "Jana Gana Mana", "Saare Jahan Se Achha", "None"],
+	"correctIndex": 1,
+	"explanation": "Jana Gana Mana is national anthem."
+	},
+	{
+	"id": 139,
+	"question": "Which Tamil poet wrote Thirukkural?",
+	"options": ["Bharathi", "Thiruvalluvar", "Avvaiyar", "Kambar"],
+	"correctIndex": 1,
+	"explanation": "Thiruvalluvar wrote Thirukkural."
+	},
+	{
+	"id": 140,
+	"question": "Which Indian state is largest producer of cotton?",
+	"options": ["Gujarat", "Punjab", "TN", "UP"],
+	"correctIndex": 0,
+	"explanation": "Gujarat produces most cotton."
+	},
+
+	{
+	"id": 141,
+	"question": "Which is Tamil Nadu's largest airport?",
+	"options": ["Madurai", "Coimbatore", "Chennai", "Trichy"],
+	"correctIndex": 2,
+	"explanation": "Chennai airport is largest."
+	},
+	{
+	"id": 142,
+	"question": "Which is India's national game (traditionally)?",
+	"options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+	"correctIndex": 1,
+	"explanation": "Hockey traditionally considered national game."
+	},
+	{
+	"id": 143,
+	"question": "Which is Tamil Nadu's largest river basin?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery basin is largest."
+	},
+	{
+	"id": 144,
+	"question": "Which year did Quit India Movement begin?",
+	"options": ["1930", "1942", "1919", "1920"],
+	"correctIndex": 1,
+	"explanation": "Quit India Movement began in 1942."
+	},
+	{
+	"id": 145,
+	"question": "Which is Tamil Nadu's state tree?",
+	"options": ["Neem", "Palm", "Banyan", "Teak"],
+	"correctIndex": 1,
+	"explanation": "Palmyra Palm is state tree."
+	},
+
+	{
+	"id": 146,
+	"question": "Which body regulates insurance?",
+	"options": ["RBI", "SEBI", "IRDAI", "NABARD"],
+	"correctIndex": 2,
+	"explanation": "IRDAI regulates insurance."
+	},
+	{
+	"id": 147,
+	"question": "Which city is called Golden City of India?",
+	"options": ["Jaisalmer", "Jaipur", "Udaipur", "Bikaner"],
+	"correctIndex": 0,
+	"explanation": "Jaisalmer is Golden City."
+	},
+	{
+	"id": 148,
+	"question": "Which Tamil Nadu district is famous for fireworks?",
+	"options": ["Salem", "Sivakasi", "Madurai", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Sivakasi is famous for fireworks."
+	},
+	{
+	"id": 149,
+	"question": "Which Indian state has longest railway network?",
+	"options": ["UP", "Maharashtra", "TN", "Gujarat"],
+	"correctIndex": 0,
+	"explanation": "UP has longest railway network."
+	},
+	{
+	"id": 150,
+	"question": "Which Indian river is longest?",
+	"options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+	"correctIndex": 0,
+	"explanation": "Ganga is longest river."
+	},
+	{
+	"id": 151,
+	"question": "Which Article deals with abolition of Untouchability?",
+	"options": ["14", "17", "19", "21"],
+	"correctIndex": 1,
+	"explanation": "Article 17 abolishes Untouchability."
+	},
+	{
+	"id": 152,
+	"question": "Who is the head of the State Government?",
+	"options": ["Governor", "Chief Minister", "President", "Speaker"],
+	"correctIndex": 1,
+	"explanation": "Chief Minister is the head of the State Government."
+	},
+	{
+	"id": 153,
+	"question": "Which Tamil king is associated with Sangam literature?",
+	"options": ["Karikala Chola", "Chera Senguttuvan", "Nedunchezhiyan", "All of the above"],
+	"correctIndex": 3,
+	"explanation": "All were associated with Sangam age."
+	},
+	{
+	"id": 154,
+	"question": "Which year did India adopt Constitution?",
+	"options": ["1947", "1948", "1949", "1950"],
+	"correctIndex": 2,
+	"explanation": "Constitution adopted on 26 November 1949."
+	},
+	{
+	"id": 155,
+	"question": "Which Indian state is largest by population?",
+	"options": ["Bihar", "UP", "Maharashtra", "West Bengal"],
+	"correctIndex": 1,
+	"explanation": "Uttar Pradesh has largest population."
+	},
+
+	{
+	"id": 156,
+	"question": "Which scheme promotes digital payments?",
+	"options": ["Digital India", "MGNREGA", "PMAY", "UDAY"],
+	"correctIndex": 0,
+	"explanation": "Digital India promotes digital payments."
+	},
+	{
+	"id": 157,
+	"question": "Which is the longest river in Tamil Nadu?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery is longest river in Tamil Nadu."
+	},
+	{
+	"id": 158,
+	"question": "Which act introduced Right to Information?",
+	"options": ["2002", "2005", "2008", "2010"],
+	"correctIndex": 1,
+	"explanation": "RTI Act was enacted in 2005."
+	},
+	{
+	"id": 159,
+	"question": "Which Indian city is known as Garden City?",
+	"options": ["Chennai", "Bangalore", "Hyderabad", "Delhi"],
+	"correctIndex": 1,
+	"explanation": "Bangalore is Garden City."
+	},
+	{
+	"id": 160,
+	"question": "Which is Tamil Nadu's largest thermal power station?",
+	"options": ["Neyveli", "Tuticorin", "Mettur", "North Chennai"],
+	"correctIndex": 0,
+	"explanation": "Neyveli is largest thermal power station."
+	},
+
+	{
+	"id": 161,
+	"question": "Which Article guarantees Right to Life?",
+	"options": ["14", "19", "21", "25"],
+	"correctIndex": 2,
+	"explanation": "Article 21 guarantees Right to Life."
+	},
+	{
+	"id": 162,
+	"question": "Which river flows through Tiruchirappalli?",
+	"options": ["Cauvery", "Vaigai", "Palar", "Tamirabarani"],
+	"correctIndex": 0,
+	"explanation": "Cauvery flows through Trichy."
+	},
+	{
+	"id": 163,
+	"question": "Which Indian freedom fighter gave slogan 'Do or Die'?",
+	"options": ["Nehru", "Subhash Bose", "Gandhi", "Tilak"],
+	"correctIndex": 2,
+	"explanation": "Gandhi gave 'Do or Die'."
+	},
+	{
+	"id": 164,
+	"question": "Which organization replaced Planning Commission?",
+	"options": ["Finance Commission", "NITI Aayog", "SEBI", "RBI"],
+	"correctIndex": 1,
+	"explanation": "NITI Aayog replaced Planning Commission."
+	},
+	{
+	"id": 165,
+	"question": "Which is Tamil Nadu's largest district by population?",
+	"options": ["Chennai", "Coimbatore", "Madurai", "Salem"],
+	"correctIndex": 0,
+	"explanation": "Chennai has highest population."
+	},
+
+	{
+	"id": 166,
+	"question": "Which is India's national song?",
+	"options": ["Jana Gana Mana", "Vande Mataram", "Saare Jahan Se Achha", "None"],
+	"correctIndex": 1,
+	"explanation": "Vande Mataram is national song."
+	},
+	{
+	"id": 167,
+	"question": "Which amendment introduced Anti-Defection Law?",
+	"options": ["42nd", "44th", "52nd", "61st"],
+	"correctIndex": 2,
+	"explanation": "52nd Amendment introduced Anti-Defection Law."
+	},
+	{
+	"id": 168,
+	"question": "Which city is called Textile City of Tamil Nadu?",
+	"options": ["Madurai", "Erode", "Coimbatore", "Salem"],
+	"correctIndex": 2,
+	"explanation": "Coimbatore is Textile City."
+	},
+	{
+	"id": 169,
+	"question": "Which is Tamil Nadu's state dance?",
+	"options": ["Kathak", "Bharatanatyam", "Kuchipudi", "Mohiniyattam"],
+	"correctIndex": 1,
+	"explanation": "Bharatanatyam is state dance."
+	},
+	{
+	"id": 170,
+	"question": "Which is India's largest freshwater lake?",
+	"options": ["Chilika", "Wular", "Dal", "Pulicat"],
+	"correctIndex": 1,
+	"explanation": "Wular is largest freshwater lake."
+	},
+
+	{
+	"id": 171,
+	"question": "Which Indian state produces highest sugarcane?",
+	"options": ["UP", "Maharashtra", "TN", "Punjab"],
+	"correctIndex": 0,
+	"explanation": "UP produces highest sugarcane."
+	},
+	{
+	"id": 172,
+	"question": "Which Tamil Nadu city is known for temples?",
+	"options": ["Madurai", "Salem", "Erode", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai is famous for Meenakshi Temple."
+	},
+	{
+	"id": 173,
+	"question": "Which year was RTI Act enacted?",
+	"options": ["2003", "2005", "2007", "2009"],
+	"correctIndex": 1,
+	"explanation": "RTI Act enacted in 2005."
+	},
+	{
+	"id": 174,
+	"question": "Which is Tamil Nadu's state fruit?",
+	"options": ["Banana", "Mango", "Jackfruit", "Guava"],
+	"correctIndex": 1,
+	"explanation": "Mango is state fruit."
+	},
+	{
+	"id": 175,
+	"question": "Which body regulates banking sector?",
+	"options": ["RBI", "SEBI", "IRDAI", "NABARD"],
+	"correctIndex": 0,
+	"explanation": "RBI regulates banking."
+	},
+
+	{
+	"id": 176,
+	"question": "Which Indian state shares border with maximum states?",
+	"options": ["UP", "MP", "Maharashtra", "Rajasthan"],
+	"correctIndex": 0,
+	"explanation": "UP shares border with most states."
+	},
+	{
+	"id": 177,
+	"question": "Which Tamil Nadu district is famous for Nilgiri hills?",
+	"options": ["Ooty", "Nilgiris", "Coimbatore", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Nilgiris district contains Nilgiri hills."
+	},
+	{
+	"id": 178,
+	"question": "Which day is celebrated as Teachers Day?",
+	"options": ["5 Sept", "14 Nov", "2 Oct", "26 Jan"],
+	"correctIndex": 0,
+	"explanation": "Teachers Day is on 5 September."
+	},
+	{
+	"id": 179,
+	"question": "Which Tamil Nadu port is major container port?",
+	"options": ["Chennai", "Tuticorin", "Ennore", "Nagapattinam"],
+	"correctIndex": 0,
+	"explanation": "Chennai is major container port."
+	},
+	{
+	"id": 180,
+	"question": "Which Indian mission is related to Sun?",
+	"options": ["Chandrayaan", "Mangalyaan", "Aditya L1", "Gaganyaan"],
+	"correctIndex": 2,
+	"explanation": "Aditya L1 is solar mission."
+	},
+
+	{
+	"id": 181,
+	"question": "Which Article deals with President's Rule?",
+	"options": ["352", "356", "360", "370"],
+	"correctIndex": 1,
+	"explanation": "Article 356 deals with President's Rule."
+	},
+	{
+	"id": 182,
+	"question": "Which Tamil Nadu district is famous for Brihadeeswarar Temple?",
+	"options": ["Madurai", "Thanjavur", "Salem", "Erode"],
+	"correctIndex": 1,
+	"explanation": "Thanjavur is famous for temple."
+	},
+	{
+	"id": 183,
+	"question": "Which is India's national bird?",
+	"options": ["Peacock", "Eagle", "Sparrow", "Parrot"],
+	"correctIndex": 0,
+	"explanation": "Peacock is national bird."
+	},
+	{
+	"id": 184,
+	"question": "Which year did GST implement?",
+	"options": ["2016", "2017", "2018", "2019"],
+	"correctIndex": 1,
+	"explanation": "GST implemented in 2017."
+	},
+	{
+	"id": 185,
+	"question": "Which Tamil Nadu city is known as Temple City?",
+	"options": ["Madurai", "Salem", "Trichy", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Madurai is Temple City."
+	},
+
+	{
+	"id": 186,
+	"question": "Which is India's national river?",
+	"options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+	"correctIndex": 0,
+	"explanation": "Ganga is national river."
+	},
+	{
+	"id": 187,
+	"question": "Which Tamil Nadu festival is harvest festival?",
+	"options": ["Deepavali", "Pongal", "Navaratri", "Holi"],
+	"correctIndex": 1,
+	"explanation": "Pongal is harvest festival."
+	},
+	{
+	"id": 188,
+	"question": "Which Indian city is capital of Maharashtra?",
+	"options": ["Pune", "Nagpur", "Mumbai", "Nashik"],
+	"correctIndex": 2,
+	"explanation": "Mumbai is capital of Maharashtra."
+	},
+	{
+	"id": 189,
+	"question": "Which Tamil Nadu city is known for Jasmine?",
+	"options": ["Madurai", "Erode", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Madurai famous for jasmine."
+	},
+	{
+	"id": 190,
+	"question": "Which Indian state is known as Land of Festivals?",
+	"options": ["Kerala", "Punjab", "Tamil Nadu", "Rajasthan"],
+	"correctIndex": 2,
+	"explanation": "Tamil Nadu is known for festivals."
+	},
+
+	{
+	"id": 191,
+	"question": "Which is India's national animal?",
+	"options": ["Tiger", "Lion", "Elephant", "Leopard"],
+	"correctIndex": 0,
+	"explanation": "Tiger is national animal."
+	},
+	{
+	"id": 192,
+	"question": "Which Tamil Nadu district is famous for textiles?",
+	"options": ["Coimbatore", "Madurai", "Salem", "Trichy"],
+	"correctIndex": 0,
+	"explanation": "Coimbatore is textile hub."
+	},
+	{
+	"id": 193,
+	"question": "Which body regulates telecom?",
+	"options": ["TRAI", "SEBI", "RBI", "IRDAI"],
+	"correctIndex": 0,
+	"explanation": "TRAI regulates telecom."
+	},
+	{
+	"id": 194,
+	"question": "Which Indian state has highest literacy rate?",
+	"options": ["Kerala", "Tamil Nadu", "Punjab", "Bihar"],
+	"correctIndex": 0,
+	"explanation": "Kerala has highest literacy."
+	},
+	{
+	"id": 195,
+	"question": "Which Tamil Nadu district is known for temples of Cholas?",
+	"options": ["Thanjavur", "Madurai", "Salem", "Erode"],
+	"correctIndex": 0,
+	"explanation": "Thanjavur has Chola temples."
+	},
+
+	{
+	"id": 196,
+	"question": "Which Indian river is longest?",
+	"options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+	"correctIndex": 0,
+	"explanation": "Ganga is longest river."
+	},
+	{
+	"id": 197,
+	"question": "Which Tamil Nadu hill station is called Queen of Hills?",
+	"options": ["Ooty", "Kodaikanal", "Yercaud", "Valparai"],
+	"correctIndex": 1,
+	"explanation": "Kodaikanal is Queen of Hills."
+	},
+	{
+	"id": 198,
+	"question": "Which is India's national fruit?",
+	"options": ["Banana", "Mango", "Apple", "Guava"],
+	"correctIndex": 1,
+	"explanation": "Mango is national fruit."
+	},
+	{
+	"id": 199,
+	"question": "Which Indian day is celebrated on 26 January?",
+	"options": ["Independence Day", "Republic Day", "Gandhi Jayanti", "Teachers Day"],
+	"correctIndex": 1,
+	"explanation": "26 January is Republic Day."
+	},
+	{
+	"id": 200,
+	"question": "Which Tamil Nadu river is also called Dakshina Ganga?",
+	"options": ["Vaigai", "Cauvery", "Palar", "Tamirabarani"],
+	"correctIndex": 1,
+	"explanation": "Cauvery is Dakshina Ganga."
+	}
+
+  ],
+
+  "materials": [
+
+    { "title": "TNPSC Group 2 Official Syllabus", "desc": "Complete syllabus PDF", "link": "https://tnpsc.gov.in" },
+    { "title": "Tamil Nadu History Notes", "desc": "TN history detailed notes", "link": "https://example.com/tn-history" },
+    { "title": "Indian Polity Basics", "desc": "Polity for Group 2", "link": "https://example.com/polity" },
+    { "title": "Indian Economy Notes", "desc": "Economy fundamentals", "link": "https://example.com/economy" },
+    { "title": "General Science Notes", "desc": "Physics, Chemistry, Biology", "link": "https://example.com/science" },
+    { "title": "Current Affairs PDF", "desc": "Monthly CA", "link": "https://example.com/ca" },
+    { "title": "Aptitude Practice", "desc": "Maths & reasoning", "link": "https://example.com/aptitude" },
+    { "title": "Indian Geography", "desc": "Important geography topics", "link": "https://example.com/geography" },
+    { "title": "Indian Constitution Summary", "desc": "Quick revision", "link": "https://example.com/constitution" },
+    { "title": "Previous Year Questions", "desc": "Group 2 PYQ", "link": "https://example.com/pyq" },
+    { "title": "Tamil Grammar Notes", "desc": "Tamil language section", "link": "https://example.com/tamil" },
+    { "title": "Indian National Movement", "desc": "Freedom struggle", "link": "https://example.com/history" },
+    { "title": "Environmental Studies", "desc": "Ecology basics", "link": "https://example.com/env" },
+    { "title": "Indian Government Schemes", "desc": "Important schemes", "link": "https://example.com/schemes" },
+    { "title": "TNPSC Model Test", "desc": "Practice tests", "link": "https://example.com/mock" },
+    { "title": "Budget Summary", "desc": "Union & State budget", "link": "https://example.com/budget" },
+    { "title": "Disaster Management", "desc": "Important topics", "link": "https://example.com/disaster" },
+    { "title": "Indian Art & Culture", "desc": "Culture topics", "link": "https://example.com/culture" },
+    { "title": "Indian Agriculture", "desc": "Agriculture sector", "link": "https://example.com/agriculture" },
+    { "title": "TNPSC Interview Guide", "desc": "Interview preparation", "link": "https://example.com/interview" }
+
+  ],
+
+  "videos": [
+
+    { "title": "Group 2 Polity Tamil", "link": "https://youtube.com/" },
+    { "title": "Group 2 Economy Tamil", "link": "https://youtube.com/" },
+    { "title": "TN History Tamil", "link": "https://youtube.com/" },
+    { "title": "General Science Tamil", "link": "https://youtube.com/" },
+    { "title": "Current Affairs Tamil", "link": "https://youtube.com/" },
+    { "title": "Aptitude Tamil", "link": "https://youtube.com/" },
+    { "title": "Indian Geography Tamil", "link": "https://youtube.com/" },
+    { "title": "Indian Constitution Tamil", "link": "https://youtube.com/" },
+    { "title": "Indian Freedom Movement Tamil", "link": "https://youtube.com/" },
+    { "title": "Environmental Studies Tamil", "link": "https://youtube.com/" },
+    { "title": "Government Schemes Tamil", "link": "https://youtube.com/" },
+    { "title": "Budget Analysis Tamil", "link": "https://youtube.com/" },
+    { "title": "Disaster Management Tamil", "link": "https://youtube.com/" },
+    { "title": "Tamil Grammar Tamil", "link": "https://youtube.com/" },
+    { "title": "Group 2 Strategy Tamil", "link": "https://youtube.com/" },
+    { "title": "Mock Test Discussion Tamil", "link": "https://youtube.com/" },
+    { "title": "Important Acts Tamil", "link": "https://youtube.com/" },
+    { "title": "TNPSC Interview Tips Tamil", "link": "https://youtube.com/" },
+    { "title": "Daily Current Affairs Tamil", "link": "https://youtube.com/" },
+    { "title": "Group 2 Full Course Tamil", "link": "https://youtube.com/" }
+
+  ],
+
+  "community": [
+
+    { "title": "Group 2 Telegram Main", "link": "https://t.me/" },
+    { "title": "Group 2 Telegram Doubts", "link": "https://t.me/" },
+    { "title": "Group 2 WhatsApp 1", "link": "https://wa.me/" },
+    { "title": "Group 2 WhatsApp 2", "link": "https://wa.me/" },
+    { "title": "Group 2 Discord", "link": "https://discord.com/" },
+    { "title": "Group 2 Facebook Group", "link": "https://facebook.com/" },
+    { "title": "Daily Quiz Group", "link": "https://example.com/" },
+    { "title": "Mentor Support Group", "link": "https://example.com/" },
+    { "title": "Interview Discussion", "link": "https://example.com/" },
+    { "title": "Answer Writing Practice", "link": "https://example.com/" },
+    { "title": "Weekly CA Discussion", "link": "https://example.com/" },
+    { "title": "Strategy Group", "link": "https://example.com/" },
+    { "title": "Polity Discussion", "link": "https://example.com/" },
+    { "title": "Economy Discussion", "link": "https://example.com/" },
+    { "title": "History Discussion", "link": "https://example.com/" },
+    { "title": "Science Discussion", "link": "https://example.com/" },
+    { "title": "Aptitude Discussion", "link": "https://example.com/" },
+    { "title": "Motivation Group", "link": "https://example.com/" },
+    { "title": "Topper Interaction", "link": "https://example.com/" },
+    { "title": "Group 2 Updates Channel", "link": "https://example.com/" }
+
+  ],
+
+  "notifications": [
+
+    { "title": "Group 2 Notification 2026", "link": "https://tnpsc.gov.in/" },
+    { "title": "Group 2 Hall Ticket", "link": "https://tnpsc.gov.in/" },
+    { "title": "Group 2 Result", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Date Update", "link": "https://tnpsc.gov.in/" },
+    { "title": "Vacancy Details", "link": "https://tnpsc.gov.in/" },
+    { "title": "Answer Key", "link": "https://tnpsc.gov.in/" },
+    { "title": "Cut Off Marks", "link": "https://tnpsc.gov.in/" },
+    { "title": "Interview Schedule", "link": "https://tnpsc.gov.in/" },
+    { "title": "Counselling Notice", "link": "https://tnpsc.gov.in/" },
+    { "title": "Application Deadline", "link": "https://tnpsc.gov.in/" },
+    { "title": "Revised Syllabus", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Pattern Update", "link": "https://tnpsc.gov.in/" },
+    { "title": "Document Verification", "link": "https://tnpsc.gov.in/" },
+    { "title": "Press Release", "link": "https://tnpsc.gov.in/" },
+    { "title": "Final Merit List", "link": "https://tnpsc.gov.in/" },
+    { "title": "Admit Card Download", "link": "https://tnpsc.gov.in/" },
+    { "title": "Upcoming Recruitment", "link": "https://tnpsc.gov.in/" },
+    { "title": "Important Instructions", "link": "https://tnpsc.gov.in/" },
+    { "title": "Exam Centers List", "link": "https://tnpsc.gov.in/" },
+    { "title": "Official Announcement", "link": "https://tnpsc.gov.in/" }
+
+  ]
+
+}
